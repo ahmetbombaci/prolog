@@ -1,0 +1,4483 @@
+--------------------------------------GAME STARTED---------------------------------------
+The following card is drawn:
+yellow
+The following card is drawn:
+purple
+The following card is drawn:
+joker
+The following card is drawn:
+orange
+I picked following destination tickets
+[1,2,41]
+Wagon Cards are: 
+[ (green,0), (blue,0), (white,0), (red,0), (black,0), (yellow,1), (purple,1), (joker,1), (orange,1)]
+Ticket No with highest value is 
+1
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,little_rock],[little_rock,saint_louis],[saint_louis,chicago]]
+little_rock
+saint_louis
+I want to build road from 
+little_rock
+to
+saint_louis
+with cards
+[yellow,joker]
+Remaining # wagon cards
+43
+Wagon Cards are: 
+[ (green,0), (blue,0), (white,0), (red,0), (black,0), (purple,1), (orange,1), (joker,0), (yellow,0)]
+Ticket No with highest value is 
+1
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,little_rock],[saint_louis,chicago]]
+oklahoma_city
+little_rock
+I need the following card 
+purple
+The following card is drawn:
+purple
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (green,0), (blue,0), (white,0), (red,0), (black,0), (orange,1), (joker,0), (yellow,0), (purple,3)]
+Ticket No with highest value is 
+1
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,dallas],[dallas,little_rock],[saint_louis,chicago]]
+dallas
+little_rock
+I want to build road from 
+dallas
+to
+little_rock
+with cards
+[purple,purple]
+Remaining # wagon cards
+41
+Wagon Cards are: 
+[ (green,0), (blue,0), (white,0), (red,0), (black,0), (orange,1), (joker,0), (yellow,0), (purple,1)]
+Ticket No with highest value is 
+1
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,dallas],[saint_louis,chicago]]
+phoenix
+santa_fe
+I need the following card 
+orange
+The following card is drawn:
+orange
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (green,0), (blue,0), (white,0), (red,0), (black,0), (joker,0), (yellow,0), (purple,1), (orange,3)]
+Ticket No with highest value is 
+1
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,dallas],[saint_louis,chicago]]
+phoenix
+santa_fe
+I want to build road from 
+phoenix
+to
+santa_fe
+with cards
+[orange,orange,orange]
+Remaining # wagon cards
+38
+Wagon Cards are: 
+[ (green,0), (blue,0), (white,0), (red,0), (black,0), (joker,0), (yellow,0), (purple,1), (orange,0)]
+Ticket No with highest value is 
+1
+[[los_angeles,phoenix],[santa_fe,oklahoma_city],[oklahoma_city,dallas],[saint_louis,chicago]]
+los_angeles
+phoenix
+I need the following card 
+purple
+The following card is drawn:
+purple
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (green,0), (blue,0), (red,0), (black,0), (joker,0), (yellow,0), (orange,0), (purple,2), (white,1)]
+Ticket No with highest value is 
+1
+[[los_angeles,phoenix],[santa_fe,oklahoma_city],[oklahoma_city,dallas],[saint_louis,chicago]]
+los_angeles
+phoenix
+I need the following card 
+purple
+The following card is drawn:
+orange
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (green,0), (blue,0), (red,0), (black,0), (joker,0), (yellow,0), (white,1), (orange,1), (purple,3)]
+Ticket No with highest value is 
+1
+[[los_angeles,phoenix],[santa_fe,oklahoma_city],[oklahoma_city,dallas],[saint_louis,chicago]]
+los_angeles
+phoenix
+I want to build road from 
+los_angeles
+to
+phoenix
+with cards
+[purple,purple,purple]
+Remaining # wagon cards
+35
+Wagon Cards are: 
+[ (green,0), (blue,0), (red,0), (black,0), (joker,0), (yellow,0), (white,1), (orange,1), (purple,0)]
+Ticket No with highest value is 
+1
+[[santa_fe,oklahoma_city],[oklahoma_city,dallas],[saint_louis,chicago]]
+oklahoma_city
+dallas
+I need the following card 
+white
+The following card is drawn:
+white
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (green,0), (blue,0), (red,0), (black,0), (joker,0), (yellow,0), (orange,1), (white,2), (purple,1)]
+Ticket No with highest value is 
+1
+[[santa_fe,oklahoma_city],[oklahoma_city,dallas],[saint_louis,chicago]]
+oklahoma_city
+dallas
+I want to build road from 
+oklahoma_city
+to
+dallas
+with cards
+[white,white]
+Remaining # wagon cards
+33
+Wagon Cards are: 
+[ (green,0), (blue,0), (red,0), (black,0), (joker,0), (yellow,0), (orange,1), (purple,1), (white,0)]
+Ticket No with highest value is 
+1
+[[santa_fe,oklahoma_city],[saint_louis,chicago]]
+santa_fe
+oklahoma_city
+I need the following card 
+blue
+The following card is drawn:
+purple
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (green,0), (blue,0), (red,0), (joker,0), (yellow,0), (orange,1), (white,0), (purple,2), (black,1)]
+Ticket No with highest value is 
+1
+[[santa_fe,oklahoma_city],[saint_louis,chicago]]
+santa_fe
+oklahoma_city
+I need the following card 
+blue
+The following card is drawn:
+white
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (green,0), (blue,0), (red,0), (joker,0), (yellow,0), (orange,1), (black,1), (white,1), (purple,3)]
+Ticket No with highest value is 
+1
+[[santa_fe,oklahoma_city],[saint_louis,chicago]]
+santa_fe
+oklahoma_city
+I need the following card 
+blue
+The following card is drawn:
+yellow
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (green,0), (blue,0), (red,0), (joker,0), (orange,1), (black,1), (purple,3), (yellow,1), (white,2)]
+Ticket No with highest value is 
+1
+[[santa_fe,oklahoma_city],[saint_louis,chicago]]
+santa_fe
+oklahoma_city
+I need the following card 
+blue
+The following card is drawn:
+yellow
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (green,0), (red,0), (joker,0), (orange,1), (black,1), (purple,3), (white,2), (yellow,2), (blue,1)]
+Ticket No with highest value is 
+1
+[[santa_fe,oklahoma_city],[saint_louis,chicago]]
+santa_fe
+oklahoma_city
+I need the following card 
+blue
+The following card is drawn:
+joker
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (green,0), (red,0), (orange,1), (black,1), (purple,3), (white,2), (yellow,2), (joker,1), (blue,2)]
+Ticket No with highest value is 
+1
+[[santa_fe,oklahoma_city],[saint_louis,chicago]]
+santa_fe
+oklahoma_city
+I want to build road from 
+santa_fe
+to
+oklahoma_city
+with cards
+[blue,blue,joker]
+Remaining # wagon cards
+30
+Wagon Cards are: 
+[ (green,0), (red,0), (orange,1), (black,1), (purple,3), (white,2), (yellow,2), (joker,0), (blue,0)]
+Ticket No with highest value is 
+1
+[[saint_louis,chicago]]
+saint_louis
+chicago
+I want to build road from 
+saint_louis
+to
+chicago
+with cards
+[white,white]
+Remaining # wagon cards
+28
+Wagon Cards are: 
+[ (green,0), (red,0), (orange,1), (black,1), (purple,3), (yellow,2), (joker,0), (blue,0), (white,0)]
+Ticket No with highest value is 
+1
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (green,0), (red,0), (orange,1), (black,1), (purple,3), (yellow,2), (joker,0), (blue,0), (white,0)]
+Ticket No with highest value is 
+41
+[[winnipeg,duluth],[duluth,chicago]]
+duluth
+chicago
+I need the following card 
+red
+The following card is drawn:
+red
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (green,0), (orange,1), (purple,3), (yellow,2), (joker,0), (blue,0), (white,0), (red,1), (black,2)]
+Ticket No with highest value is 
+41
+[[winnipeg,duluth],[duluth,chicago]]
+duluth
+chicago
+I need the following card 
+red
+The following card is drawn:
+red
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (orange,1), (purple,3), (yellow,2), (joker,0), (blue,0), (white,0), (black,2), (red,2), (green,1)]
+Ticket No with highest value is 
+41
+[[winnipeg,duluth],[duluth,chicago]]
+duluth
+chicago
+I need the following card 
+red
+The following card is drawn:
+red
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (orange,1), (purple,3), (joker,0), (blue,0), (white,0), (black,2), (green,1), (red,3), (yellow,3)]
+Ticket No with highest value is 
+41
+[[winnipeg,duluth],[duluth,chicago]]
+duluth
+chicago
+I want to build road from 
+duluth
+to
+chicago
+with cards
+[red,red,red]
+Remaining # wagon cards
+25
+Wagon Cards are: 
+[ (orange,1), (purple,3), (joker,0), (blue,0), (white,0), (black,2), (green,1), (yellow,3), (red,0)]
+Ticket No with highest value is 
+41
+[[winnipeg,duluth]]
+winnipeg
+duluth
+I need the following card 
+black
+The following card is drawn:
+black
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (orange,1), (purple,3), (joker,0), (white,0), (green,1), (yellow,3), (red,0), (black,3), (blue,1)]
+Ticket No with highest value is 
+41
+[[winnipeg,duluth]]
+winnipeg
+duluth
+I need the following card 
+black
+The following card is drawn:
+red
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (orange,1), (purple,3), (joker,0), (white,0), (green,1), (yellow,3), (blue,1), (red,1), (black,4)]
+Ticket No with highest value is 
+41
+[[winnipeg,duluth]]
+winnipeg
+duluth
+I want to build road from 
+winnipeg
+to
+duluth
+with cards
+[black,black,black,black]
+Remaining # wagon cards
+21
+Wagon Cards are: 
+[ (orange,1), (purple,3), (joker,0), (white,0), (green,1), (yellow,3), (blue,1), (red,1), (black,0)]
+Ticket No with highest value is 
+41
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (orange,1), (purple,3), (joker,0), (white,0), (green,1), (yellow,3), (blue,1), (red,1), (black,0)]
+Ticket No with highest value is 
+2
+[[helena,winnipeg]]
+helena
+winnipeg
+I need the following card 
+blue
+The following card is drawn:
+black
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (orange,1), (purple,3), (joker,0), (green,1), (yellow,3), (blue,1), (red,1), (black,1), (white,1)]
+Ticket No with highest value is 
+2
+[[helena,winnipeg]]
+helena
+winnipeg
+I need the following card 
+blue
+The following card is drawn:
+yellow
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (orange,1), (purple,3), (joker,0), (blue,1), (red,1), (black,1), (white,1), (yellow,4), (green,2)]
+Ticket No with highest value is 
+2
+[[helena,winnipeg]]
+helena
+winnipeg
+I need the following card 
+blue
+The following card is drawn:
+black
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (purple,3), (joker,0), (blue,1), (red,1), (white,1), (yellow,4), (green,2), (black,2), (orange,2)]
+Ticket No with highest value is 
+2
+[[helena,winnipeg]]
+helena
+winnipeg
+I need the following card 
+blue
+The following card is drawn:
+white
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (purple,3), (joker,0), (blue,1), (red,1), (yellow,4), (green,2), (black,2), (white,2), (orange,3)]
+Ticket No with highest value is 
+2
+[[helena,winnipeg]]
+helena
+winnipeg
+I need the following card 
+blue
+The following card is drawn:
+red
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (purple,3), (blue,1), (yellow,4), (green,2), (black,2), (white,2), (orange,3), (red,2), (joker,1)]
+Ticket No with highest value is 
+2
+[[helena,winnipeg]]
+helena
+winnipeg
+I need the following card 
+blue
+The following card is drawn:
+green
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (purple,3), (blue,1), (yellow,4), (black,2), (white,2), (orange,3), (red,2), (joker,1), (green,4)]
+Ticket No with highest value is 
+2
+[[helena,winnipeg]]
+helena
+winnipeg
+I need the following card 
+blue
+The following card is drawn:
+yellow
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (purple,3), (blue,1), (black,2), (white,2), (orange,3), (red,2), (green,4), (yellow,5), (joker,2)]
+Ticket No with highest value is 
+2
+[[helena,winnipeg]]
+helena
+winnipeg
+I need the following card 
+blue
+The following card is drawn:
+orange
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (purple,3), (black,2), (white,2), (red,2), (green,4), (yellow,5), (joker,2), (orange,4), (blue,2)]
+Ticket No with highest value is 
+2
+[[helena,winnipeg]]
+helena
+winnipeg
+I want to build road from 
+helena
+to
+winnipeg
+with cards
+[blue,blue,joker,joker]
+Remaining # wagon cards
+17
+Wagon Cards are: 
+[ (purple,3), (black,2), (white,2), (red,2), (green,4), (yellow,5), (orange,4), (joker,0), (blue,0)]
+Ticket No with highest value is 
+2
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (purple,3), (black,2), (white,2), (red,2), (green,4), (yellow,5), (orange,4), (joker,0), (blue,0)]
+Destination Ticket Select Algorithm log
+[omaha,new_orleans,5,5,1]
+[toronto,miami,13,10,1]
+[salt_lake_city,kansas_city,6,5,1]
+I picked following destination tickets
+[40]
+Wagon Cards are: 
+[ (purple,3), (black,2), (white,2), (red,2), (green,4), (yellow,5), (orange,4), (joker,0), (blue,0)]
+Ticket No with highest value is 
+40
+[[omaha,duluth],[dallas,houston],[houston,new_orleans]]
+houston
+new_orleans
+I want to build road from 
+houston
+to
+new_orleans
+with cards
+[purple,purple]
+Remaining # wagon cards
+15
+Wagon Cards are: 
+[ (black,2), (white,2), (red,2), (green,4), (yellow,5), (orange,4), (joker,0), (blue,0), (purple,1)]
+Ticket No with highest value is 
+40
+[[omaha,duluth],[dallas,houston]]
+dallas
+houston
+I want to build road from 
+dallas
+to
+houston
+with cards
+[black]
+Remaining # wagon cards
+14
+Wagon Cards are: 
+[ (white,2), (red,2), (green,4), (yellow,5), (orange,4), (joker,0), (blue,0), (purple,1), (black,1)]
+Ticket No with highest value is 
+40
+[[omaha,duluth]]
+omaha
+duluth
+I want to build road from 
+omaha
+to
+duluth
+with cards
+[white,white]
+Remaining # wagon cards
+12
+Wagon Cards are: 
+[ (red,2), (green,4), (yellow,5), (orange,4), (joker,0), (blue,0), (purple,1), (black,1), (white,0)]
+Ticket No with highest value is 
+40
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (red,2), (green,4), (yellow,5), (orange,4), (joker,0), (blue,0), (purple,1), (black,1), (white,0)]
+Destination Ticket Select Algorithm log
+[boston,miami,15,12,1]
+[winnipeg,houston,0,0,1]
+[portland,phoenix,13,9,1]
+I picked following destination tickets
+[6]
+Wagon Cards are: 
+[ (red,2), (green,4), (yellow,5), (orange,4), (joker,0), (blue,0), (purple,1), (black,1), (white,0)]
+Ticket No with highest value is 
+6
+[[boston,new_york],[new_york,washington],[washington,raleigh],[raleigh,charleston],[charleston,miami]]
+raleigh
+charleston
+I want to build road from 
+raleigh
+to
+charleston
+with cards
+[red,red]
+Remaining # wagon cards
+10
+Wagon Cards are: 
+[ (green,4), (yellow,5), (orange,4), (joker,0), (blue,0), (purple,1), (black,1), (white,0), (red,0)]
+Ticket No with highest value is 
+6
+[[boston,new_york],[new_york,washington],[washington,raleigh],[charleston,miami]]
+washington
+raleigh
+I want to build road from 
+washington
+to
+raleigh
+with cards
+[green,green]
+Remaining # wagon cards
+8
+Wagon Cards are: 
+[ (yellow,5), (orange,4), (joker,0), (blue,0), (purple,1), (black,1), (white,0), (red,0), (green,2)]
+Ticket No with highest value is 
+6
+[[boston,new_york],[new_york,washington],[charleston,miami]]
+charleston
+miami
+I need the following card 
+purple
+The following card is drawn:
+purple
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (yellow,5), (orange,4), (joker,0), (blue,0), (black,1), (white,0), (green,2), (purple,2), (red,1)]
+Ticket No with highest value is 
+6
+[[boston,new_york],[new_york,washington],[charleston,miami]]
+charleston
+miami
+I need the following card 
+purple
+The following card is drawn:
+white
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (orange,4), (joker,0), (blue,0), (black,1), (green,2), (purple,2), (red,1), (white,1), (yellow,6)]
+Ticket No with highest value is 
+6
+[[boston,new_york],[new_york,washington],[charleston,miami]]
+charleston
+miami
+I need the following card 
+purple
+The following card is drawn:
+yellow
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (orange,4), (joker,0), (blue,0), (green,2), (purple,2), (red,1), (white,1), (yellow,7), (black,2)]
+Ticket No with highest value is 
+6
+[[boston,new_york],[new_york,washington],[charleston,miami]]
+charleston
+miami
+I need the following card 
+purple
+The following card is drawn:
+blue
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (orange,4), (green,2), (purple,2), (red,1), (white,1), (yellow,7), (black,2), (blue,1), (joker,1)]
+Ticket No with highest value is 
+6
+[[boston,new_york],[new_york,washington],[raleigh,atlanta],[atlanta,miami]]
+raleigh
+atlanta
+I want to build road from 
+raleigh
+to
+atlanta
+with cards
+[orange,orange]
+Remaining # wagon cards
+6
+Wagon Cards are: 
+[ (green,2), (purple,2), (red,1), (white,1), (yellow,7), (black,2), (blue,1), (joker,1), (orange,2)]
+Ticket No with highest value is 
+6
+[[boston,new_york],[new_york,washington],[atlanta,miami]]
+boston
+new_york
+I want to build road from 
+boston
+to
+new_york
+with cards
+[red,joker]
+Remaining # wagon cards
+4
+Wagon Cards are: 
+[ (green,2), (purple,2), (white,1), (yellow,7), (black,2), (blue,1), (orange,2), (joker,0), (red,0)]
+Ticket No with highest value is 
+6
+[[new_york,washington],[atlanta,miami]]
+new_york
+washington
+I want to build road from 
+new_york
+to
+washington
+with cards
+[orange,orange]
+Remaining # wagon cards
+2
+--------------------------------------GAME STARTED---------------------------------------
+The following card is drawn:
+green
+The following card is drawn:
+orange
+The following card is drawn:
+purple
+The following card is drawn:
+black
+I picked following destination tickets
+[12,19,36]
+Wagon Cards are: 
+[ (yellow,0), (blue,0), (white,0), (red,0), (joker,0), (green,1), (orange,1), (purple,1), (black,1)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie],[sault_st_marie,toronto],[toronto,montreal]]
+sault_st_marie
+toronto
+I need the following card 
+green
+The following card is drawn:
+green
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (yellow,0), (blue,0), (white,0), (red,0), (orange,1), (purple,1), (black,1), (green,2), (joker,1)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie],[sault_st_marie,toronto],[toronto,montreal]]
+sault_st_marie
+toronto
+I want to build road from 
+sault_st_marie
+to
+toronto
+with cards
+[green,green]
+Remaining # wagon cards
+43
+Wagon Cards are: 
+[ (yellow,0), (blue,0), (white,0), (red,0), (orange,1), (purple,1), (black,1), (joker,1), (green,0)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie],[toronto,montreal]]
+toronto
+montreal
+I need the following card 
+orange
+The following card is drawn:
+red
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (yellow,0), (blue,0), (white,0), (orange,1), (black,1), (joker,1), (green,0), (red,1), (purple,2)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie],[toronto,montreal]]
+toronto
+montreal
+I want to build road from 
+toronto
+to
+montreal
+with cards
+[purple,purple,joker]
+Remaining # wagon cards
+40
+Wagon Cards are: 
+[ (yellow,0), (blue,0), (white,0), (orange,1), (black,1), (green,0), (red,1), (joker,0), (purple,0)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie]]
+duluth
+sault_st_marie
+I need the following card 
+orange
+The following card is drawn:
+blue
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (yellow,0), (white,0), (orange,1), (black,1), (green,0), (joker,0), (purple,0), (blue,1), (red,2)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie]]
+duluth
+sault_st_marie
+I need the following card 
+red
+The following card is drawn:
+red
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (yellow,0), (white,0), (orange,1), (black,1), (green,0), (joker,0), (purple,0), (blue,1), (red,4)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie]]
+duluth
+sault_st_marie
+I want to build road from 
+duluth
+to
+sault_st_marie
+with cards
+[red,red,red]
+Remaining # wagon cards
+37
+Wagon Cards are: 
+[ (yellow,0), (white,0), (orange,1), (black,1), (green,0), (joker,0), (purple,0), (blue,1), (red,1)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth]]
+vancouver
+calgary
+I need the following card 
+orange
+The following card is drawn:
+orange
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (yellow,0), (white,0), (green,0), (joker,0), (purple,0), (blue,1), (red,1), (orange,2), (black,2)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth]]
+vancouver
+calgary
+I need the following card 
+orange
+The following card is drawn:
+blue
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (yellow,0), (green,0), (joker,0), (purple,0), (red,1), (orange,2), (black,2), (blue,2), (white,1)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth]]
+vancouver
+calgary
+I need the following card 
+orange
+The following card is drawn:
+white
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (green,0), (joker,0), (purple,0), (red,1), (orange,2), (black,2), (blue,2), (white,2), (yellow,1)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth]]
+vancouver
+calgary
+I need the following card 
+orange
+The following card is drawn:
+green
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (joker,0), (purple,0), (red,1), (orange,2), (blue,2), (white,2), (yellow,1), (green,1), (black,3)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth]]
+vancouver
+calgary
+I want to build road from 
+vancouver
+to
+calgary
+with cards
+[black,black,black]
+Remaining # wagon cards
+34
+Wagon Cards are: 
+[ (joker,0), (purple,0), (red,1), (orange,2), (blue,2), (white,2), (yellow,1), (green,1), (black,0)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha],[omaha,duluth]]
+omaha
+duluth
+I want to build road from 
+omaha
+to
+duluth
+with cards
+[orange,orange]
+Remaining # wagon cards
+32
+Wagon Cards are: 
+[ (joker,0), (purple,0), (red,1), (blue,2), (white,2), (yellow,1), (green,1), (black,0), (orange,0)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I need the following card 
+blue
+The following card is drawn:
+yellow
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (joker,0), (purple,0), (red,1), (blue,2), (white,2), (green,1), (orange,0), (yellow,2), (black,1)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I need the following card 
+blue
+The following card is drawn:
+purple
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (joker,0), (red,1), (blue,2), (white,2), (green,1), (orange,0), (black,1), (purple,1), (yellow,3)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I need the following card 
+yellow
+The following card is drawn:
+orange
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (joker,0), (red,1), (blue,2), (white,2), (green,1), (black,1), (purple,1), (yellow,3), (orange,2)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I need the following card 
+yellow
+The following card is drawn:
+orange
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (joker,0), (red,1), (blue,2), (green,1), (black,1), (purple,1), (yellow,3), (orange,3), (white,3)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I need the following card 
+yellow
+The following card is drawn:
+purple
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (joker,0), (red,1), (blue,2), (black,1), (yellow,3), (orange,3), (white,3), (purple,2), (green,2)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I need the following card 
+yellow
+The following card is drawn:
+orange
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (joker,0), (red,1), (blue,2), (black,1), (yellow,3), (purple,2), (green,2), (orange,4), (white,4)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I want to build road from 
+calgary
+to
+helena
+with cards
+[orange,orange,orange,orange]
+Remaining # wagon cards
+28
+Wagon Cards are: 
+[ (joker,0), (red,1), (blue,2), (black,1), (yellow,3), (purple,2), (green,2), (white,4), (orange,0)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+red
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (joker,0), (blue,2), (black,1), (yellow,3), (purple,2), (green,2), (white,4), (orange,0), (red,3)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+blue
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (black,1), (yellow,3), (purple,2), (green,2), (white,4), (orange,0), (red,3), (blue,3), (joker,1)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+white
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (yellow,3), (purple,2), (green,2), (orange,0), (red,3), (blue,3), (joker,1), (white,5), (black,2)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+joker
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (yellow,3), (purple,2), (green,2), (orange,0), (red,3), (white,5), (black,2), (joker,2), (blue,4)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I want to build road from 
+helena
+to
+omaha
+with cards
+[red,red,red,joker,joker]
+Remaining # wagon cards
+23
+Wagon Cards are: 
+[ (yellow,3), (purple,2), (green,2), (orange,0), (white,5), (black,2), (blue,4), (joker,0), (red,0)]
+Ticket No with highest value is 
+19
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (yellow,3), (purple,2), (green,2), (orange,0), (white,5), (black,2), (blue,4), (joker,0), (red,0)]
+Ticket No with highest value is 
+36
+[[san_fransisco,portland],[portland,seattle],[seattle,vancouver]]
+seattle
+vancouver
+I want to build road from 
+seattle
+to
+vancouver
+with cards
+[yellow]
+Remaining # wagon cards
+22
+Wagon Cards are: 
+[ (purple,2), (green,2), (orange,0), (white,5), (black,2), (blue,4), (joker,0), (red,0), (yellow,2)]
+Ticket No with highest value is 
+36
+[[san_fransisco,portland],[portland,seattle]]
+portland
+seattle
+I want to build road from 
+portland
+to
+seattle
+with cards
+[purple]
+Remaining # wagon cards
+21
+Wagon Cards are: 
+[ (green,2), (orange,0), (white,5), (black,2), (blue,4), (joker,0), (red,0), (yellow,2), (purple,1)]
+Ticket No with highest value is 
+36
+[[san_fransisco,portland]]
+san_fransisco
+portland
+I need the following card 
+green
+The following card is drawn:
+joker
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (green,2), (orange,0), (white,5), (black,2), (blue,4), (yellow,2), (purple,1), (joker,1), (red,1)]
+Ticket No with highest value is 
+36
+[[san_fransisco,portland]]
+san_fransisco
+portland
+I need the following card 
+green
+The following card is drawn:
+green
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (orange,0), (white,5), (black,2), (blue,4), (yellow,2), (purple,1), (joker,1), (green,3), (red,2)]
+Ticket No with highest value is 
+36
+[[san_fransisco,portland]]
+san_fransisco
+portland
+I need the following card 
+green
+The following card is drawn:
+blue
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (orange,0), (white,5), (black,2), (yellow,2), (purple,1), (joker,1), (red,2), (blue,5), (green,4)]
+Ticket No with highest value is 
+36
+[[san_fransisco,portland]]
+san_fransisco
+portland
+I want to build road from 
+san_fransisco
+to
+portland
+with cards
+[green,green,green,green,joker]
+Remaining # wagon cards
+16
+Wagon Cards are: 
+[ (orange,0), (white,5), (black,2), (yellow,2), (purple,1), (red,2), (blue,5), (joker,0), (green,0)]
+Ticket No with highest value is 
+36
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (orange,0), (white,5), (black,2), (yellow,2), (purple,1), (red,2), (blue,5), (joker,0), (green,0)]
+Ticket No with highest value is 
+12
+[[san_fransisco,los_angeles]]
+san_fransisco
+los_angeles
+I need the following card 
+yellow
+The following card is drawn:
+joker
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (orange,0), (white,5), (black,2), (yellow,2), (purple,1), (red,2), (blue,5), (joker,1), (green,1)]
+Ticket No with highest value is 
+12
+[[san_fransisco,los_angeles]]
+san_fransisco
+los_angeles
+I want to build road from 
+san_fransisco
+to
+los_angeles
+with cards
+[yellow,yellow,joker]
+Remaining # wagon cards
+13
+Wagon Cards are: 
+[ (orange,0), (white,5), (black,2), (purple,1), (red,2), (blue,5), (green,1), (joker,0), (yellow,0)]
+Ticket No with highest value is 
+12
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (orange,0), (white,5), (black,2), (purple,1), (red,2), (blue,5), (green,1), (joker,0), (yellow,0)]
+Destination Ticket Select Algorithm log
+[washington,atlanta,4,4,1]
+[portland,pittsburgh,2,2,1]
+[sault_st_marie,nashville,8,7,1]
+I picked following destination tickets
+[38]
+Wagon Cards are: 
+[ (orange,0), (white,5), (black,2), (purple,1), (red,2), (blue,5), (green,1), (joker,0), (yellow,0)]
+Ticket No with highest value is 
+38
+[[toronto,pittsburgh]]
+toronto
+pittsburgh
+I want to build road from 
+toronto
+to
+pittsburgh
+with cards
+[white,white]
+Remaining # wagon cards
+11
+Wagon Cards are: 
+[ (orange,0), (black,2), (purple,1), (red,2), (blue,5), (green,1), (joker,0), (yellow,0), (white,3)]
+Ticket No with highest value is 
+38
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (orange,0), (black,2), (purple,1), (red,2), (blue,5), (green,1), (joker,0), (yellow,0), (white,3)]
+Destination Ticket Select Algorithm log
+[seattle,new_york,2,2,1]
+[kansas_city,boston,3,3,1]
+[dallas,new_york,7,7,1]
+I picked following destination tickets
+[4]
+Wagon Cards are: 
+[ (orange,0), (black,2), (purple,1), (red,2), (blue,5), (green,1), (joker,0), (yellow,0), (white,3)]
+Ticket No with highest value is 
+4
+[[pittsburgh,new_york]]
+pittsburgh
+new_york
+I want to build road from 
+pittsburgh
+to
+new_york
+with cards
+[white,white]
+Remaining # wagon cards
+9
+Wagon Cards are: 
+[ (orange,0), (black,2), (purple,1), (red,2), (blue,5), (green,1), (joker,0), (yellow,0), (white,1)]
+Ticket No with highest value is 
+4
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (orange,0), (black,2), (purple,1), (red,2), (blue,5), (green,1), (joker,0), (yellow,0), (white,1)]
+Destination Ticket Select Algorithm log
+[chicago,new_orleans,11,11,1]
+[helena,los_angeles,0,0,1]
+[winnipeg,little_rock,14,11,1]
+I picked following destination tickets
+[27]
+Wagon Cards are: 
+[ (orange,0), (black,2), (purple,1), (red,2), (blue,5), (green,1), (joker,0), (yellow,0), (white,1)]
+Ticket No with highest value is 
+27
+[[winnipeg,duluth],[omaha,kansas_city],[kansas_city,oklahoma_city],[oklahoma_city,dallas],[dallas,little_rock]]
+dallas
+little_rock
+I want to build road from 
+dallas
+to
+little_rock
+with cards
+[black,black]
+Remaining # wagon cards
+7
+Wagon Cards are: 
+[ (orange,0), (purple,1), (red,2), (blue,5), (green,1), (joker,0), (yellow,0), (white,1), (black,0)]
+Ticket No with highest value is 
+27
+[[winnipeg,duluth],[omaha,kansas_city],[kansas_city,oklahoma_city],[oklahoma_city,dallas]]
+omaha
+kansas_city
+I want to build road from 
+omaha
+to
+kansas_city
+with cards
+[purple]
+Remaining # wagon cards
+6
+Wagon Cards are: 
+[ (orange,0), (red,2), (blue,5), (green,1), (joker,0), (yellow,0), (white,1), (black,0), (purple,0)]
+Ticket No with highest value is 
+27
+[[winnipeg,duluth],[kansas_city,oklahoma_city],[oklahoma_city,dallas]]
+oklahoma_city
+dallas
+I want to build road from 
+oklahoma_city
+to
+dallas
+with cards
+[red,red]
+Remaining # wagon cards
+4
+Wagon Cards are: 
+[ (orange,0), (blue,5), (green,1), (joker,0), (yellow,0), (white,1), (black,0), (purple,0), (red,0)]
+Ticket No with highest value is 
+27
+[[winnipeg,duluth],[kansas_city,oklahoma_city]]
+kansas_city
+oklahoma_city
+I want to build road from 
+kansas_city
+to
+oklahoma_city
+with cards
+[blue,blue]
+Remaining # wagon cards
+2
+Wagon Cards are: 
+[ (orange,0), (green,1), (joker,0), (yellow,0), (white,1), (black,0), (purple,0), (red,0), (blue,3)]
+Ticket No with highest value is 
+27
+[[winnipeg,duluth]]
+winnipeg
+duluth
+I need the following card 
+black
+The following card is drawn:
+blue
+The following card is drawn:
+red
+--------------------------------------GAME STARTED---------------------------------------
+The following card is drawn:
+yellow
+The following card is drawn:
+green
+The following card is drawn:
+joker
+The following card is drawn:
+joker
+I picked following destination tickets
+[25,30,35]
+Wagon Cards are: 
+[ (purple,0), (blue,0), (orange,0), (white,0), (red,0), (black,0), (yellow,1), (green,1), (joker,2)]
+Ticket No with highest value is 
+25
+[[portland,san_fransisco],[san_fransisco,los_angeles],[los_angeles,phoenix]]
+los_angeles
+phoenix
+I want to build road from 
+los_angeles
+to
+phoenix
+with cards
+[yellow,joker,joker]
+Remaining # wagon cards
+42
+Wagon Cards are: 
+[ (purple,0), (blue,0), (orange,0), (white,0), (red,0), (black,0), (green,1), (joker,0), (yellow,0)]
+Ticket No with highest value is 
+25
+[[portland,san_fransisco],[san_fransisco,los_angeles]]
+san_fransisco
+los_angeles
+I need the following card 
+yellow
+The following card is drawn:
+yellow
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (purple,0), (blue,0), (orange,0), (white,0), (red,0), (green,1), (joker,0), (yellow,1), (black,1)]
+Ticket No with highest value is 
+25
+[[portland,san_fransisco],[san_fransisco,los_angeles]]
+san_fransisco
+los_angeles
+I need the following card 
+yellow
+The following card is drawn:
+joker
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (purple,0), (blue,0), (orange,0), (white,0), (green,1), (yellow,1), (black,1), (joker,1), (red,1)]
+Ticket No with highest value is 
+25
+[[portland,san_fransisco],[san_fransisco,los_angeles]]
+san_fransisco
+los_angeles
+I need the following card 
+yellow
+The following card is drawn:
+orange
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (purple,0), (blue,0), (white,0), (green,1), (yellow,1), (black,1), (red,1), (orange,1), (joker,2)]
+Ticket No with highest value is 
+25
+[[portland,san_fransisco],[san_fransisco,los_angeles]]
+san_fransisco
+los_angeles
+I want to build road from 
+san_fransisco
+to
+los_angeles
+with cards
+[yellow,joker,joker]
+Remaining # wagon cards
+39
+Wagon Cards are: 
+[ (purple,0), (blue,0), (white,0), (green,1), (black,1), (red,1), (orange,1), (joker,0), (yellow,0)]
+Ticket No with highest value is 
+25
+[[portland,san_fransisco]]
+portland
+san_fransisco
+I need the following card 
+green
+The following card is drawn:
+green
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (purple,0), (blue,0), (white,0), (black,1), (red,1), (orange,1), (joker,0), (yellow,0), (green,3)]
+Ticket No with highest value is 
+25
+[[portland,san_fransisco]]
+portland
+san_fransisco
+I need the following card 
+green
+The following card is drawn:
+green
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (purple,0), (blue,0), (white,0), (black,1), (red,1), (orange,1), (joker,0), (yellow,0), (green,5)]
+Ticket No with highest value is 
+25
+[[portland,san_fransisco]]
+portland
+san_fransisco
+I want to build road from 
+portland
+to
+san_fransisco
+with cards
+[green,green,green,green,green]
+Remaining # wagon cards
+34
+Wagon Cards are: 
+[ (purple,0), (blue,0), (white,0), (black,1), (red,1), (orange,1), (joker,0), (yellow,0), (green,0)]
+Ticket No with highest value is 
+25
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (purple,0), (blue,0), (white,0), (black,1), (red,1), (orange,1), (joker,0), (yellow,0), (green,0)]
+Ticket No with highest value is 
+35
+[[toronto,pittsburgh],[pittsburgh,raleigh],[raleigh,charleston]]
+raleigh
+charleston
+I need the following card 
+black
+The following card is drawn:
+yellow
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (purple,0), (blue,0), (white,0), (black,1), (red,1), (orange,1), (joker,0), (green,0), (yellow,2)]
+Ticket No with highest value is 
+35
+[[toronto,pittsburgh],[pittsburgh,raleigh],[raleigh,charleston]]
+raleigh
+charleston
+I want to build road from 
+raleigh
+to
+charleston
+with cards
+[yellow,yellow]
+Remaining # wagon cards
+32
+Wagon Cards are: 
+[ (purple,0), (blue,0), (white,0), (black,1), (red,1), (orange,1), (joker,0), (green,0), (yellow,0)]
+Ticket No with highest value is 
+35
+[[toronto,pittsburgh],[pittsburgh,raleigh]]
+pittsburgh
+raleigh
+I need the following card 
+black
+The following card is drawn:
+yellow
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (purple,0), (blue,0), (black,1), (red,1), (orange,1), (joker,0), (green,0), (yellow,1), (white,1)]
+Ticket No with highest value is 
+35
+[[toronto,pittsburgh],[pittsburgh,raleigh]]
+pittsburgh
+raleigh
+I need the following card 
+black
+The following card is drawn:
+red
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (purple,0), (blue,0), (black,1), (joker,0), (green,0), (yellow,1), (white,1), (red,2), (orange,2)]
+Ticket No with highest value is 
+35
+[[toronto,pittsburgh],[pittsburgh,raleigh]]
+pittsburgh
+raleigh
+I want to build road from 
+pittsburgh
+to
+raleigh
+with cards
+[red,red]
+Remaining # wagon cards
+30
+Wagon Cards are: 
+[ (purple,0), (blue,0), (black,1), (joker,0), (green,0), (yellow,1), (white,1), (orange,2), (red,0)]
+Ticket No with highest value is 
+35
+[[toronto,pittsburgh]]
+toronto
+pittsburgh
+I want to build road from 
+toronto
+to
+pittsburgh
+with cards
+[orange,orange]
+Remaining # wagon cards
+28
+Wagon Cards are: 
+[ (purple,0), (blue,0), (black,1), (joker,0), (green,0), (yellow,1), (white,1), (red,0), (orange,0)]
+Ticket No with highest value is 
+35
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (purple,0), (blue,0), (black,1), (joker,0), (green,0), (yellow,1), (white,1), (red,0), (orange,0)]
+Ticket No with highest value is 
+30
+[[washington,raleigh],[raleigh,atlanta]]
+raleigh
+atlanta
+I need the following card 
+black
+The following card is drawn:
+green
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (purple,0), (blue,0), (joker,0), (yellow,1), (white,1), (red,0), (orange,0), (green,1), (black,2)]
+Ticket No with highest value is 
+30
+[[washington,raleigh],[raleigh,atlanta]]
+raleigh
+atlanta
+I want to build road from 
+raleigh
+to
+atlanta
+with cards
+[black,black]
+Remaining # wagon cards
+26
+Wagon Cards are: 
+[ (purple,0), (blue,0), (joker,0), (yellow,1), (white,1), (red,0), (orange,0), (green,1), (black,0)]
+Ticket No with highest value is 
+30
+[[washington,raleigh]]
+washington
+raleigh
+I need the following card 
+yellow
+The following card is drawn:
+yellow
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (blue,0), (joker,0), (white,1), (red,0), (orange,0), (green,1), (black,0), (yellow,2), (purple,1)]
+Ticket No with highest value is 
+30
+[[washington,raleigh]]
+washington
+raleigh
+I want to build road from 
+washington
+to
+raleigh
+with cards
+[yellow,yellow]
+Remaining # wagon cards
+24
+Wagon Cards are: 
+[ (blue,0), (joker,0), (white,1), (red,0), (orange,0), (green,1), (black,0), (purple,1), (yellow,0)]
+Ticket No with highest value is 
+30
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (blue,0), (joker,0), (white,1), (red,0), (orange,0), (green,1), (black,0), (purple,1), (yellow,0)]
+Destination Ticket Select Algorithm log
+[portland,pittsburgh,18,15,1]
+[denver,saint_louis,9,6,1]
+[calgary,nashville,20,16,1]
+I picked following destination tickets
+[38]
+Wagon Cards are: 
+[ (blue,0), (joker,0), (white,1), (red,0), (orange,0), (green,1), (black,0), (purple,1), (yellow,0)]
+Ticket No with highest value is 
+38
+[[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,little_rock],[little_rock,saint_louis],[saint_louis,chicago],[chicago,pittsburgh]]
+little_rock
+saint_louis
+I need the following card 
+white
+The following card is drawn:
+white
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (blue,0), (joker,0), (red,0), (orange,0), (black,0), (purple,1), (yellow,0), (white,2), (green,2)]
+Ticket No with highest value is 
+38
+[[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,little_rock],[little_rock,saint_louis],[saint_louis,chicago],[chicago,pittsburgh]]
+little_rock
+saint_louis
+I want to build road from 
+little_rock
+to
+saint_louis
+with cards
+[white,white]
+Remaining # wagon cards
+22
+Wagon Cards are: 
+[ (blue,0), (joker,0), (red,0), (orange,0), (black,0), (purple,1), (yellow,0), (green,2), (white,0)]
+Ticket No with highest value is 
+38
+[[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,little_rock],[saint_louis,chicago],[chicago,pittsburgh]]
+oklahoma_city
+little_rock
+I want to build road from 
+oklahoma_city
+to
+little_rock
+with cards
+[green,green]
+Remaining # wagon cards
+20
+Wagon Cards are: 
+[ (blue,0), (joker,0), (red,0), (orange,0), (black,0), (purple,1), (yellow,0), (white,0), (green,0)]
+Ticket No with highest value is 
+38
+[[phoenix,santa_fe],[santa_fe,oklahoma_city],[saint_louis,chicago],[chicago,pittsburgh]]
+phoenix
+santa_fe
+I need the following card 
+purple
+The following card is drawn:
+purple
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (blue,0), (joker,0), (red,0), (orange,0), (black,0), (white,0), (green,0), (purple,2), (yellow,1)]
+Ticket No with highest value is 
+38
+[[phoenix,santa_fe],[santa_fe,oklahoma_city],[saint_louis,chicago],[chicago,pittsburgh]]
+phoenix
+santa_fe
+I need the following card 
+purple
+The following card is drawn:
+red
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (blue,0), (joker,0), (orange,0), (black,0), (white,0), (green,0), (yellow,1), (red,1), (purple,3)]
+Ticket No with highest value is 
+38
+[[phoenix,santa_fe],[santa_fe,oklahoma_city],[saint_louis,chicago],[chicago,pittsburgh]]
+phoenix
+santa_fe
+I want to build road from 
+phoenix
+to
+santa_fe
+with cards
+[purple,purple,purple]
+Remaining # wagon cards
+17
+Wagon Cards are: 
+[ (blue,0), (joker,0), (orange,0), (black,0), (white,0), (green,0), (yellow,1), (red,1), (purple,0)]
+Ticket No with highest value is 
+38
+[[santa_fe,oklahoma_city],[saint_louis,chicago],[chicago,pittsburgh]]
+santa_fe
+oklahoma_city
+I need the following card 
+blue
+The following card is drawn:
+blue
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (joker,0), (orange,0), (black,0), (white,0), (green,0), (yellow,1), (red,1), (purple,0), (blue,2)]
+Ticket No with highest value is 
+38
+[[santa_fe,oklahoma_city],[saint_louis,chicago],[chicago,pittsburgh]]
+santa_fe
+oklahoma_city
+I need the following card 
+blue
+The following card is drawn:
+purple
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (joker,0), (orange,0), (black,0), (green,0), (yellow,1), (red,1), (blue,2), (purple,1), (white,1)]
+Ticket No with highest value is 
+38
+[[santa_fe,oklahoma_city],[saint_louis,chicago],[chicago,pittsburgh]]
+santa_fe
+oklahoma_city
+I need the following card 
+blue
+The following card is drawn:
+black
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (yellow,1), (red,1), (blue,2), (purple,1), (white,1), (black,2)]
+Ticket No with highest value is 
+38
+[[santa_fe,oklahoma_city],[saint_louis,chicago],[chicago,pittsburgh]]
+santa_fe
+oklahoma_city
+I need the following card 
+blue
+The following card is drawn:
+red
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (yellow,1), (blue,2), (purple,1), (black,2), (red,2), (white,2)]
+Ticket No with highest value is 
+38
+[[santa_fe,oklahoma_city],[saint_louis,chicago],[chicago,pittsburgh]]
+santa_fe
+oklahoma_city
+I need the following card 
+blue
+The following card is drawn:
+purple
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (yellow,1), (black,2), (red,2), (white,2), (purple,2), (blue,3)]
+Ticket No with highest value is 
+38
+[[santa_fe,oklahoma_city],[saint_louis,chicago],[chicago,pittsburgh]]
+santa_fe
+oklahoma_city
+I want to build road from 
+santa_fe
+to
+oklahoma_city
+with cards
+[blue,blue,blue]
+Remaining # wagon cards
+14
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (yellow,1), (black,2), (red,2), (white,2), (purple,2), (blue,0)]
+Ticket No with highest value is 
+38
+[[saint_louis,chicago],[chicago,pittsburgh]]
+saint_louis
+chicago
+I want to build road from 
+saint_louis
+to
+chicago
+with cards
+[white,white]
+Remaining # wagon cards
+12
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (yellow,1), (black,2), (red,2), (purple,2), (blue,0), (white,0)]
+Ticket No with highest value is 
+38
+[[chicago,pittsburgh]]
+chicago
+pittsburgh
+I need the following card 
+black
+The following card is drawn:
+black
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (yellow,1), (purple,2), (blue,0), (white,0), (black,3), (red,3)]
+Ticket No with highest value is 
+38
+[[chicago,pittsburgh]]
+chicago
+pittsburgh
+I want to build road from 
+chicago
+to
+pittsburgh
+with cards
+[black,black,black]
+Remaining # wagon cards
+9
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (yellow,1), (purple,2), (blue,0), (white,0), (red,3), (black,0)]
+Ticket No with highest value is 
+38
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (yellow,1), (purple,2), (blue,0), (white,0), (red,3), (black,0)]
+Destination Ticket Select Algorithm log
+[chicago,santa_fe,0,0,1]
+[duluth,el_paso,13,9,1]
+[vancouver,montreal,6,5,1]
+I picked following destination tickets
+[19]
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (yellow,1), (purple,2), (blue,0), (white,0), (red,3), (black,0)]
+Ticket No with highest value is 
+19
+[[vancouver,seattle],[seattle,portland],[toronto,montreal]]
+seattle
+portland
+I want to build road from 
+seattle
+to
+portland
+with cards
+[yellow]
+Remaining # wagon cards
+8
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (purple,2), (blue,0), (white,0), (red,3), (black,0), (yellow,0)]
+Ticket No with highest value is 
+19
+[[vancouver,seattle],[toronto,montreal]]
+vancouver
+seattle
+I want to build road from 
+vancouver
+to
+seattle
+with cards
+[purple]
+Remaining # wagon cards
+7
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (blue,0), (white,0), (red,3), (black,0), (yellow,0), (purple,1)]
+Ticket No with highest value is 
+19
+[[toronto,montreal]]
+toronto
+montreal
+I want to build road from 
+toronto
+to
+montreal
+with cards
+[red,red,red]
+Remaining # wagon cards
+4
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (blue,0), (white,0), (black,0), (yellow,0), (purple,1), (red,0)]
+Ticket No with highest value is 
+19
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (joker,0), (orange,0), (green,0), (blue,0), (white,0), (black,0), (yellow,0), (purple,1), (red,0)]
+I need the following card 
+purple
+The following card is drawn:
+purple
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (orange,0), (green,0), (blue,0), (white,0), (black,0), (yellow,0), (red,0), (purple,2), (joker,1)]
+I want to build road from 
+duluth
+to
+omaha
+with cards
+[purple,purple]
+Remaining # wagon cards
+2
+Wagon Cards are: 
+[ (orange,0), (green,0), (blue,0), (white,0), (black,0), (yellow,0), (red,0), (joker,1), (purple,0)]
+I need the following card 
+orange
+The following card is drawn:
+purple
+The following card is drawn:
+orange
+--------------------------------------GAME STARTED---------------------------------------
+The following card is drawn:
+yellow
+The following card is drawn:
+purple
+The following card is drawn:
+green
+The following card is drawn:
+yellow
+I picked following destination tickets
+[2,12,34]
+Wagon Cards are: 
+[ (blue,0), (orange,0), (white,0), (red,0), (black,0), (joker,0), (purple,1), (green,1), (yellow,2)]
+Ticket No with highest value is 
+34
+[[kansas_city,saint_louis],[saint_louis,chicago],[chicago,pittsburgh],[pittsburgh,new_york],[new_york,boston]]
+new_york
+boston
+I want to build road from 
+new_york
+to
+boston
+with cards
+[yellow,yellow]
+Remaining # wagon cards
+43
+Wagon Cards are: 
+[ (blue,0), (orange,0), (white,0), (red,0), (black,0), (joker,0), (purple,1), (green,1), (yellow,0)]
+Ticket No with highest value is 
+34
+[[kansas_city,saint_louis],[saint_louis,chicago],[chicago,pittsburgh],[pittsburgh,new_york]]
+pittsburgh
+new_york
+I need the following card 
+green
+The following card is drawn:
+green
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (blue,0), (orange,0), (red,0), (black,0), (joker,0), (purple,1), (yellow,0), (green,2), (white,1)]
+Ticket No with highest value is 
+34
+[[kansas_city,saint_louis],[saint_louis,chicago],[chicago,pittsburgh],[pittsburgh,new_york]]
+pittsburgh
+new_york
+I want to build road from 
+pittsburgh
+to
+new_york
+with cards
+[green,green]
+Remaining # wagon cards
+41
+Wagon Cards are: 
+[ (blue,0), (orange,0), (red,0), (black,0), (joker,0), (purple,1), (yellow,0), (white,1), (green,0)]
+Ticket No with highest value is 
+34
+[[kansas_city,saint_louis],[saint_louis,chicago],[chicago,pittsburgh]]
+saint_louis
+chicago
+I need the following card 
+white
+The following card is drawn:
+yellow
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (blue,0), (orange,0), (red,0), (black,0), (purple,1), (white,1), (green,0), (yellow,1), (joker,1)]
+Ticket No with highest value is 
+34
+[[kansas_city,saint_louis],[saint_louis,chicago],[chicago,pittsburgh]]
+saint_louis
+chicago
+I want to build road from 
+saint_louis
+to
+chicago
+with cards
+[white,joker]
+Remaining # wagon cards
+39
+Wagon Cards are: 
+[ (blue,0), (orange,0), (red,0), (black,0), (purple,1), (green,0), (yellow,1), (joker,0), (white,0)]
+Ticket No with highest value is 
+34
+[[kansas_city,saint_louis],[chicago,pittsburgh]]
+kansas_city
+saint_louis
+I need the following card 
+purple
+The following card is drawn:
+yellow
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (blue,0), (orange,0), (black,0), (purple,1), (green,0), (joker,0), (white,0), (yellow,2), (red,1)]
+Ticket No with highest value is 
+34
+[[kansas_city,saint_louis],[chicago,pittsburgh]]
+kansas_city
+saint_louis
+I need the following card 
+purple
+The following card is drawn:
+black
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (blue,0), (orange,0), (purple,1), (green,0), (joker,0), (white,0), (red,1), (black,1), (yellow,3)]
+Ticket No with highest value is 
+34
+[[kansas_city,saint_louis],[chicago,pittsburgh]]
+kansas_city
+saint_louis
+I need the following card 
+purple
+The following card is drawn:
+yellow
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (blue,0), (orange,0), (purple,1), (green,0), (joker,0), (white,0), (red,1), (black,1), (yellow,5)]
+Ticket No with highest value is 
+34
+[[kansas_city,saint_louis],[chicago,pittsburgh]]
+kansas_city
+saint_louis
+I need the following card 
+purple
+The following card is drawn:
+purple
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (blue,0), (orange,0), (green,0), (joker,0), (red,1), (black,1), (yellow,5), (purple,2), (white,1)]
+Ticket No with highest value is 
+34
+[[kansas_city,saint_louis],[chicago,pittsburgh]]
+kansas_city
+saint_louis
+I want to build road from 
+kansas_city
+to
+saint_louis
+with cards
+[purple,purple]
+Remaining # wagon cards
+37
+Wagon Cards are: 
+[ (blue,0), (orange,0), (green,0), (joker,0), (red,1), (black,1), (yellow,5), (white,1), (purple,0)]
+Ticket No with highest value is 
+34
+[[chicago,pittsburgh]]
+chicago
+pittsburgh
+I need the following card 
+black
+The following card is drawn:
+black
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (blue,0), (orange,0), (green,0), (joker,0), (red,1), (yellow,5), (white,1), (purple,0), (black,3)]
+Ticket No with highest value is 
+34
+[[chicago,pittsburgh]]
+chicago
+pittsburgh
+I want to build road from 
+chicago
+to
+pittsburgh
+with cards
+[black,black,black]
+Remaining # wagon cards
+34
+Wagon Cards are: 
+[ (blue,0), (orange,0), (green,0), (joker,0), (red,1), (yellow,5), (white,1), (purple,0), (black,0)]
+Ticket No with highest value is 
+34
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (blue,0), (orange,0), (green,0), (joker,0), (red,1), (yellow,5), (white,1), (purple,0), (black,0)]
+Ticket No with highest value is 
+12
+[[seattle,portland],[portland,san_fransisco],[san_fransisco,los_angeles]]
+seattle
+portland
+I want to build road from 
+seattle
+to
+portland
+with cards
+[red]
+Remaining # wagon cards
+33
+Wagon Cards are: 
+[ (blue,0), (orange,0), (green,0), (joker,0), (yellow,5), (white,1), (purple,0), (black,0), (red,0)]
+Ticket No with highest value is 
+12
+[[portland,san_fransisco],[san_fransisco,los_angeles]]
+san_fransisco
+los_angeles
+I want to build road from 
+san_fransisco
+to
+los_angeles
+with cards
+[yellow,yellow,yellow]
+Remaining # wagon cards
+30
+Wagon Cards are: 
+[ (blue,0), (orange,0), (green,0), (joker,0), (white,1), (purple,0), (black,0), (red,0), (yellow,2)]
+Ticket No with highest value is 
+12
+[[portland,san_fransisco]]
+portland
+san_fransisco
+I need the following card 
+green
+The following card is drawn:
+green
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (blue,0), (orange,0), (joker,0), (white,1), (purple,0), (black,0), (red,0), (yellow,2), (green,2)]
+Ticket No with highest value is 
+12
+[[portland,san_fransisco]]
+portland
+san_fransisco
+I need the following card 
+green
+The following card is drawn:
+green
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (orange,0), (joker,0), (white,1), (purple,0), (black,0), (red,0), (yellow,2), (green,3), (blue,1)]
+Ticket No with highest value is 
+12
+[[portland,san_fransisco]]
+portland
+san_fransisco
+I need the following card 
+green
+The following card is drawn:
+green
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (orange,0), (white,1), (purple,0), (black,0), (red,0), (yellow,2), (blue,1), (green,4), (joker,1)]
+Ticket No with highest value is 
+12
+[[portland,san_fransisco]]
+portland
+san_fransisco
+I want to build road from 
+portland
+to
+san_fransisco
+with cards
+[green,green,green,green,joker]
+Remaining # wagon cards
+25
+Wagon Cards are: 
+[ (orange,0), (white,1), (purple,0), (black,0), (red,0), (yellow,2), (blue,1), (joker,0), (green,0)]
+Ticket No with highest value is 
+12
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (orange,0), (white,1), (purple,0), (black,0), (red,0), (yellow,2), (blue,1), (joker,0), (green,0)]
+Ticket No with highest value is 
+2
+[[helena,salt_lake_city],[salt_lake_city,las_vegas],[las_vegas,los_angeles]]
+las_vegas
+los_angeles
+I want to build road from 
+las_vegas
+to
+los_angeles
+with cards
+[yellow,yellow]
+Remaining # wagon cards
+23
+Wagon Cards are: 
+[ (orange,0), (white,1), (purple,0), (black,0), (red,0), (blue,1), (joker,0), (green,0), (yellow,0)]
+Ticket No with highest value is 
+2
+[[helena,salt_lake_city],[salt_lake_city,las_vegas]]
+salt_lake_city
+las_vegas
+I need the following card 
+orange
+The following card is drawn:
+green
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (orange,0), (white,1), (purple,0), (black,0), (blue,1), (joker,0), (yellow,0), (green,1), (red,1)]
+Ticket No with highest value is 
+2
+[[helena,salt_lake_city],[salt_lake_city,las_vegas]]
+salt_lake_city
+las_vegas
+I need the following card 
+orange
+The following card is drawn:
+orange
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (white,1), (purple,0), (black,0), (joker,0), (yellow,0), (green,1), (red,1), (orange,1), (blue,2)]
+Ticket No with highest value is 
+2
+[[helena,salt_lake_city],[salt_lake_city,las_vegas]]
+salt_lake_city
+las_vegas
+I need the following card 
+orange
+The following card is drawn:
+joker
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (white,1), (purple,0), (black,0), (yellow,0), (green,1), (red,1), (orange,1), (joker,1), (blue,3)]
+Ticket No with highest value is 
+2
+[[helena,salt_lake_city],[salt_lake_city,las_vegas]]
+salt_lake_city
+las_vegas
+I need the following card 
+orange
+The following card is drawn:
+yellow
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (white,1), (purple,0), (black,0), (green,1), (red,1), (orange,1), (blue,3), (yellow,1), (joker,2)]
+Ticket No with highest value is 
+2
+[[helena,salt_lake_city],[salt_lake_city,las_vegas]]
+salt_lake_city
+las_vegas
+I want to build road from 
+salt_lake_city
+to
+las_vegas
+with cards
+[orange,joker,joker]
+Remaining # wagon cards
+20
+Wagon Cards are: 
+[ (white,1), (purple,0), (black,0), (green,1), (red,1), (blue,3), (yellow,1), (joker,0), (orange,0)]
+Ticket No with highest value is 
+2
+[[helena,salt_lake_city]]
+helena
+salt_lake_city
+I need the following card 
+purple
+The following card is drawn:
+purple
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (white,1), (black,0), (green,1), (red,1), (blue,3), (yellow,1), (joker,0), (purple,1), (orange,1)]
+Ticket No with highest value is 
+2
+[[helena,salt_lake_city]]
+helena
+salt_lake_city
+I need the following card 
+purple
+The following card is drawn:
+joker
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (black,0), (green,1), (red,1), (blue,3), (yellow,1), (purple,1), (orange,1), (joker,1), (white,2)]
+Ticket No with highest value is 
+2
+[[helena,salt_lake_city]]
+helena
+salt_lake_city
+I need the following card 
+purple
+The following card is drawn:
+white
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (black,0), (green,1), (red,1), (blue,3), (yellow,1), (orange,1), (joker,1), (white,3), (purple,2)]
+Ticket No with highest value is 
+2
+[[helena,salt_lake_city]]
+helena
+salt_lake_city
+I want to build road from 
+helena
+to
+salt_lake_city
+with cards
+[purple,purple,joker]
+Remaining # wagon cards
+17
+Wagon Cards are: 
+[ (black,0), (green,1), (red,1), (blue,3), (yellow,1), (orange,1), (white,3), (joker,0), (purple,0)]
+Ticket No with highest value is 
+2
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (black,0), (green,1), (red,1), (blue,3), (yellow,1), (orange,1), (white,3), (joker,0), (purple,0)]
+Destination Ticket Select Algorithm log
+[winnipeg,houston,15,12,1]
+[duluth,el_paso,13,10,1]
+[new_york,atlanta,3,3,1]
+I picked following destination tickets
+[15]
+Wagon Cards are: 
+[ (black,0), (green,1), (red,1), (blue,3), (yellow,1), (orange,1), (white,3), (joker,0), (purple,0)]
+Ticket No with highest value is 
+15
+[[saint_louis,nashville],[nashville,atlanta]]
+nashville
+atlanta
+I want to build road from 
+nashville
+to
+atlanta
+with cards
+[green]
+Remaining # wagon cards
+16
+Wagon Cards are: 
+[ (black,0), (red,1), (blue,3), (yellow,1), (orange,1), (white,3), (joker,0), (purple,0), (green,0)]
+Ticket No with highest value is 
+15
+[[saint_louis,nashville]]
+saint_louis
+nashville
+I want to build road from 
+saint_louis
+to
+nashville
+with cards
+[blue,blue]
+Remaining # wagon cards
+14
+Wagon Cards are: 
+[ (black,0), (red,1), (yellow,1), (orange,1), (white,3), (joker,0), (purple,0), (green,0), (blue,1)]
+Ticket No with highest value is 
+15
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (black,0), (red,1), (yellow,1), (orange,1), (white,3), (joker,0), (purple,0), (green,0), (blue,1)]
+Destination Ticket Select Algorithm log
+[chicago,new_orleans,6,5,1]
+[denver,el_paso,4,4,1]
+[portland,phoenix,4,3,1]
+I picked following destination tickets
+[25]
+Wagon Cards are: 
+[ (black,0), (red,1), (yellow,1), (orange,1), (white,3), (joker,0), (purple,0), (green,0), (blue,1)]
+Ticket No with highest value is 
+25
+[[los_angeles,phoenix]]
+los_angeles
+phoenix
+I want to build road from 
+los_angeles
+to
+phoenix
+with cards
+[white,white,white]
+Remaining # wagon cards
+11
+Wagon Cards are: 
+[ (black,0), (red,1), (yellow,1), (orange,1), (joker,0), (purple,0), (green,0), (blue,1), (white,0)]
+Ticket No with highest value is 
+25
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (black,0), (red,1), (yellow,1), (orange,1), (joker,0), (purple,0), (green,0), (blue,1), (white,0)]
+Destination Ticket Select Algorithm log
+[sault_st_marie,oklahoma_city,14,9,1]
+[vancouver,denver,5,4,1]
+[winnipeg,little_rock,20,13,1]
+I picked following destination tickets
+[32]
+Wagon Cards are: 
+[ (black,0), (red,1), (yellow,1), (orange,1), (joker,0), (purple,0), (green,0), (blue,1), (white,0)]
+Ticket No with highest value is 
+32
+[[vancouver,seattle],[salt_lake_city,denver]]
+vancouver
+seattle
+I want to build road from 
+vancouver
+to
+seattle
+with cards
+[red]
+Remaining # wagon cards
+10
+Wagon Cards are: 
+[ (black,0), (yellow,1), (orange,1), (joker,0), (purple,0), (green,0), (blue,1), (white,0), (red,0)]
+Ticket No with highest value is 
+32
+[[salt_lake_city,denver]]
+salt_lake_city
+denver
+I need the following card 
+yellow
+The following card is drawn:
+yellow
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (black,0), (joker,0), (purple,0), (green,0), (blue,1), (white,0), (red,0), (yellow,2), (orange,2)]
+Ticket No with highest value is 
+32
+[[salt_lake_city,denver]]
+salt_lake_city
+denver
+I need the following card 
+yellow
+The following card is drawn:
+black
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (joker,0), (purple,0), (green,0), (white,0), (red,0), (yellow,2), (orange,2), (black,1), (blue,2)]
+Ticket No with highest value is 
+32
+[[salt_lake_city,denver]]
+salt_lake_city
+denver
+I need the following card 
+yellow
+The following card is drawn:
+joker
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (green,0), (white,0), (red,0), (yellow,2), (orange,2), (black,1), (blue,2), (joker,1), (purple,1)]
+Ticket No with highest value is 
+32
+[[salt_lake_city,denver]]
+salt_lake_city
+denver
+I want to build road from 
+salt_lake_city
+to
+denver
+with cards
+[yellow,yellow,joker]
+Remaining # wagon cards
+7
+Wagon Cards are: 
+[ (green,0), (white,0), (red,0), (orange,2), (black,1), (blue,2), (purple,1), (joker,0), (yellow,0)]
+Ticket No with highest value is 
+32
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (green,0), (white,0), (red,0), (orange,2), (black,1), (blue,2), (purple,1), (joker,0), (yellow,0)]
+Destination Ticket Select Algorithm log
+[vancouver,santa_fe,4,3,1]
+[san_fransisco,atlanta,7,4,1]
+[san_fransisco,washington,9,6,1]
+I picked following destination tickets
+[39]
+Wagon Cards are: 
+[ (green,0), (white,0), (red,0), (orange,2), (black,1), (blue,2), (purple,1), (joker,0), (yellow,0)]
+Ticket No with highest value is 
+39
+[[denver,kansas_city],[pittsburgh,washington]]
+pittsburgh
+washington
+I want to build road from 
+pittsburgh
+to
+washington
+with cards
+[orange,orange]
+Remaining # wagon cards
+5
+Wagon Cards are: 
+[ (green,0), (white,0), (red,0), (black,1), (blue,2), (purple,1), (joker,0), (yellow,0), (orange,0)]
+Ticket No with highest value is 
+39
+[[denver,kansas_city]]
+denver
+kansas_city
+I need the following card 
+black
+The following card is drawn:
+joker
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (green,0), (white,0), (red,0), (black,1), (purple,1), (yellow,0), (orange,0), (joker,1), (blue,3)]
+Ticket No with highest value is 
+39
+[[denver,kansas_city]]
+denver
+kansas_city
+I need the following card 
+black
+The following card is drawn:
+red
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (green,0), (white,0), (black,1), (yellow,0), (orange,0), (joker,1), (blue,3), (red,1), (purple,2)]
+Ticket No with highest value is 
+39
+[[denver,kansas_city]]
+denver
+kansas_city
+I need the following card 
+black
+The following card is drawn:
+green
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (white,0), (black,1), (yellow,0), (joker,1), (blue,3), (red,1), (purple,2), (green,1), (orange,1)]
+Ticket No with highest value is 
+39
+[[denver,kansas_city]]
+denver
+kansas_city
+I need the following card 
+black
+The following card is drawn:
+orange
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (white,0), (black,1), (yellow,0), (joker,1), (blue,3), (red,1), (purple,2), (green,1), (orange,3)]
+Ticket No with highest value is 
+39
+[[denver,kansas_city]]
+denver
+kansas_city
+I want to build road from 
+denver
+to
+kansas_city
+with cards
+[orange,orange,orange,joker]
+Remaining # wagon cards
+1
+Wagon Cards are: 
+[ (white,0), (black,1), (yellow,0), (blue,3), (red,1), (purple,2), (green,1), (joker,0), (orange,0)]
+Ticket No with highest value is 
+39
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (white,0), (black,1), (yellow,0), (blue,3), (red,1), (purple,2), (green,1), (joker,0), (orange,0)]
+I want to build road from 
+duluth
+to
+omaha
+with cards
+[blue,blue]
+--------------------------------------GAME STARTED---------------------------------------
+The following card is drawn:
+red
+The following card is drawn:
+black
+The following card is drawn:
+white
+The following card is drawn:
+black
+I picked following destination tickets
+[9,11,38]
+Wagon Cards are: 
+[ (yellow,0), (green,0), (purple,0), (blue,0), (orange,0), (joker,0), (red,1), (white,1), (black,2)]
+Ticket No with highest value is 
+11
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,little_rock],[little_rock,saint_louis],[saint_louis,nashville],[nashville,atlanta],[atlanta,charleston],[charleston,miami]]
+nashville
+atlanta
+I want to build road from 
+nashville
+to
+atlanta
+with cards
+[red]
+Remaining # wagon cards
+44
+Wagon Cards are: 
+[ (yellow,0), (green,0), (purple,0), (blue,0), (orange,0), (joker,0), (white,1), (black,2), (red,0)]
+Ticket No with highest value is 
+11
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,little_rock],[little_rock,nashville],[atlanta,charleston],[charleston,miami]]
+atlanta
+charleston
+I want to build road from 
+atlanta
+to
+charleston
+with cards
+[black,black]
+Remaining # wagon cards
+42
+Wagon Cards are: 
+[ (yellow,0), (green,0), (purple,0), (blue,0), (orange,0), (joker,0), (white,1), (red,0), (black,0)]
+Ticket No with highest value is 
+11
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,little_rock],[little_rock,nashville],[charleston,miami]]
+oklahoma_city
+little_rock
+I need the following card 
+white
+The following card is drawn:
+blue
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (yellow,0), (green,0), (purple,0), (joker,0), (white,1), (red,0), (black,0), (blue,1), (orange,1)]
+Ticket No with highest value is 
+11
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,little_rock],[little_rock,nashville],[charleston,miami]]
+oklahoma_city
+little_rock
+I need the following card 
+white
+The following card is drawn:
+black
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (green,0), (purple,0), (joker,0), (white,1), (red,0), (blue,1), (orange,1), (black,1), (yellow,1)]
+Ticket No with highest value is 
+11
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,little_rock],[little_rock,nashville],[charleston,miami]]
+oklahoma_city
+little_rock
+I need the following card 
+white
+The following card is drawn:
+purple
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (green,0), (joker,0), (white,1), (red,0), (blue,1), (orange,1), (black,1), (yellow,1), (purple,2)]
+Ticket No with highest value is 
+11
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[oklahoma_city,little_rock],[little_rock,nashville],[charleston,miami]]
+oklahoma_city
+little_rock
+I want to build road from 
+oklahoma_city
+to
+little_rock
+with cards
+[purple,purple]
+Remaining # wagon cards
+40
+Wagon Cards are: 
+[ (green,0), (joker,0), (white,1), (red,0), (blue,1), (orange,1), (black,1), (yellow,1), (purple,0)]
+Ticket No with highest value is 
+11
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[little_rock,nashville],[charleston,miami]]
+phoenix
+santa_fe
+I need the following card 
+white
+The following card is drawn:
+joker
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (white,1), (red,0), (blue,1), (orange,1), (black,1), (yellow,1), (purple,0), (joker,1), (green,1)]
+Ticket No with highest value is 
+11
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[little_rock,nashville],[charleston,miami]]
+phoenix
+santa_fe
+I need the following card 
+white
+The following card is drawn:
+joker
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (white,1), (red,0), (blue,1), (orange,1), (yellow,1), (purple,0), (green,1), (joker,2), (black,2)]
+Ticket No with highest value is 
+11
+[[los_angeles,phoenix],[phoenix,santa_fe],[santa_fe,oklahoma_city],[little_rock,nashville],[charleston,miami]]
+phoenix
+santa_fe
+I want to build road from 
+phoenix
+to
+santa_fe
+with cards
+[black,black,joker]
+Remaining # wagon cards
+37
+Wagon Cards are: 
+[ (white,1), (red,0), (blue,1), (orange,1), (yellow,1), (purple,0), (green,1), (joker,1), (black,0)]
+Ticket No with highest value is 
+11
+[[los_angeles,phoenix],[santa_fe,oklahoma_city],[little_rock,nashville],[charleston,miami]]
+los_angeles
+phoenix
+I need the following card 
+white
+The following card is drawn:
+orange
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (white,1), (red,0), (blue,1), (yellow,1), (purple,0), (green,1), (joker,1), (orange,2), (black,1)]
+Ticket No with highest value is 
+11
+[[los_angeles,phoenix],[santa_fe,oklahoma_city],[little_rock,nashville],[charleston,miami]]
+los_angeles
+phoenix
+I want to build road from 
+los_angeles
+to
+phoenix
+with cards
+[orange,orange,joker]
+Remaining # wagon cards
+34
+Wagon Cards are: 
+[ (white,1), (red,0), (blue,1), (yellow,1), (purple,0), (green,1), (black,1), (joker,0), (orange,0)]
+Ticket No with highest value is 
+11
+[[santa_fe,oklahoma_city],[little_rock,nashville],[charleston,miami]]
+little_rock
+nashville
+I need the following card 
+white
+The following card is drawn:
+yellow
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (red,0), (blue,1), (purple,0), (green,1), (black,1), (joker,0), (orange,0), (yellow,2), (white,2)]
+Ticket No with highest value is 
+11
+[[santa_fe,oklahoma_city],[little_rock,nashville],[charleston,miami]]
+little_rock
+nashville
+I need the following card 
+white
+The following card is drawn:
+blue
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (red,0), (purple,0), (green,1), (black,1), (joker,0), (orange,0), (white,2), (blue,2), (yellow,3)]
+Ticket No with highest value is 
+11
+[[santa_fe,oklahoma_city],[little_rock,nashville],[charleston,miami]]
+little_rock
+nashville
+I need the following card 
+white
+The following card is drawn:
+joker
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (red,0), (purple,0), (green,1), (black,1), (white,2), (blue,2), (yellow,3), (joker,1), (orange,1)]
+Ticket No with highest value is 
+11
+[[santa_fe,oklahoma_city],[little_rock,nashville],[charleston,miami]]
+little_rock
+nashville
+I want to build road from 
+little_rock
+to
+nashville
+with cards
+[white,white,joker]
+Remaining # wagon cards
+31
+Wagon Cards are: 
+[ (red,0), (purple,0), (green,1), (black,1), (blue,2), (yellow,3), (orange,1), (joker,0), (white,0)]
+Ticket No with highest value is 
+11
+[[santa_fe,oklahoma_city],[charleston,miami]]
+santa_fe
+oklahoma_city
+I need the following card 
+blue
+The following card is drawn:
+joker
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (red,0), (purple,0), (black,1), (blue,2), (yellow,3), (orange,1), (white,0), (joker,1), (green,2)]
+Ticket No with highest value is 
+11
+[[santa_fe,oklahoma_city],[charleston,miami]]
+santa_fe
+oklahoma_city
+I want to build road from 
+santa_fe
+to
+oklahoma_city
+with cards
+[blue,blue,joker]
+Remaining # wagon cards
+28
+Wagon Cards are: 
+[ (red,0), (purple,0), (black,1), (yellow,3), (orange,1), (white,0), (green,2), (joker,0), (blue,0)]
+Ticket No with highest value is 
+11
+[[charleston,miami]]
+charleston
+miami
+I need the following card 
+purple
+The following card is drawn:
+purple
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (red,0), (black,1), (yellow,3), (white,0), (green,2), (joker,0), (blue,0), (purple,1), (orange,2)]
+Ticket No with highest value is 
+11
+[[charleston,miami]]
+charleston
+miami
+I need the following card 
+purple
+The following card is drawn:
+blue
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (red,0), (black,1), (yellow,3), (white,0), (green,2), (joker,0), (purple,1), (blue,1), (orange,3)]
+Ticket No with highest value is 
+11
+[[charleston,miami]]
+charleston
+miami
+I need the following card 
+purple
+The following card is drawn:
+green
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (red,0), (black,1), (yellow,3), (white,0), (purple,1), (blue,1), (orange,3), (green,3), (joker,1)]
+Ticket No with highest value is 
+11
+[[charleston,miami]]
+charleston
+miami
+I need the following card 
+purple
+The following card is drawn:
+purple
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (black,1), (yellow,3), (white,0), (blue,1), (orange,3), (green,3), (joker,1), (purple,2), (red,1)]
+Ticket No with highest value is 
+11
+[[charleston,miami]]
+charleston
+miami
+I need the following card 
+purple
+The following card is drawn:
+green
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (black,1), (yellow,3), (blue,1), (orange,3), (joker,1), (purple,2), (red,1), (green,4), (white,1)]
+Ticket No with highest value is 
+11
+[[charleston,miami]]
+charleston
+miami
+I need the following card 
+purple
+The following card is drawn:
+green
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (black,1), (yellow,3), (blue,1), (orange,3), (purple,2), (red,1), (white,1), (green,5), (joker,2)]
+Ticket No with highest value is 
+11
+[[charleston,miami]]
+charleston
+miami
+I want to build road from 
+charleston
+to
+miami
+with cards
+[purple,purple,joker,joker]
+Remaining # wagon cards
+24
+Wagon Cards are: 
+[ (black,1), (yellow,3), (blue,1), (orange,3), (red,1), (white,1), (green,5), (joker,0), (purple,0)]
+Ticket No with highest value is 
+11
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (black,1), (yellow,3), (blue,1), (orange,3), (red,1), (white,1), (green,5), (joker,0), (purple,0)]
+Ticket No with highest value is 
+38
+[[portland,san_fransisco],[san_fransisco,los_angeles],[charleston,raleigh],[raleigh,pittsburgh]]
+raleigh
+pittsburgh
+I want to build road from 
+raleigh
+to
+pittsburgh
+with cards
+[yellow,yellow]
+Remaining # wagon cards
+22
+Wagon Cards are: 
+[ (black,1), (blue,1), (orange,3), (red,1), (white,1), (green,5), (joker,0), (purple,0), (yellow,1)]
+Ticket No with highest value is 
+38
+[[portland,san_fransisco],[san_fransisco,los_angeles],[charleston,raleigh]]
+charleston
+raleigh
+I want to build road from 
+charleston
+to
+raleigh
+with cards
+[orange,orange]
+Remaining # wagon cards
+20
+Wagon Cards are: 
+[ (black,1), (blue,1), (red,1), (white,1), (green,5), (joker,0), (purple,0), (yellow,1), (orange,1)]
+Ticket No with highest value is 
+38
+[[portland,san_fransisco],[san_fransisco,los_angeles]]
+san_fransisco
+los_angeles
+I need the following card 
+yellow
+The following card is drawn:
+black
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (blue,1), (red,1), (green,5), (joker,0), (purple,0), (yellow,1), (orange,1), (black,2), (white,2)]
+Ticket No with highest value is 
+38
+[[portland,san_fransisco],[san_fransisco,los_angeles]]
+san_fransisco
+los_angeles
+I need the following card 
+yellow
+The following card is drawn:
+black
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (blue,1), (red,1), (green,5), (joker,0), (purple,0), (yellow,1), (orange,1), (white,2), (black,4)]
+Ticket No with highest value is 
+38
+[[portland,san_fransisco],[san_fransisco,los_angeles]]
+san_fransisco
+los_angeles
+I need the following card 
+yellow
+The following card is drawn:
+red
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (blue,1), (green,5), (purple,0), (yellow,1), (orange,1), (white,2), (black,4), (red,2), (joker,1)]
+Ticket No with highest value is 
+38
+[[portland,san_fransisco],[san_fransisco,los_angeles]]
+san_fransisco
+los_angeles
+I need the following card 
+yellow
+The following card is drawn:
+joker
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (blue,1), (green,5), (purple,0), (orange,1), (white,2), (black,4), (red,2), (joker,2), (yellow,2)]
+Ticket No with highest value is 
+38
+[[portland,san_fransisco],[san_fransisco,los_angeles]]
+san_fransisco
+los_angeles
+I want to build road from 
+san_fransisco
+to
+los_angeles
+with cards
+[yellow,yellow,joker]
+Remaining # wagon cards
+17
+Wagon Cards are: 
+[ (blue,1), (green,5), (purple,0), (orange,1), (white,2), (black,4), (red,2), (joker,1), (yellow,0)]
+Ticket No with highest value is 
+38
+[[portland,san_fransisco]]
+portland
+san_fransisco
+I want to build road from 
+portland
+to
+san_fransisco
+with cards
+[green,green,green,green,green]
+Remaining # wagon cards
+12
+Wagon Cards are: 
+[ (blue,1), (purple,0), (orange,1), (white,2), (black,4), (red,2), (joker,1), (yellow,0), (green,0)]
+Ticket No with highest value is 
+38
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (blue,1), (purple,0), (orange,1), (white,2), (black,4), (red,2), (joker,1), (yellow,0), (green,0)]
+Ticket No with highest value is 
+9
+[[dallas,little_rock],[pittsburgh,new_york]]
+dallas
+little_rock
+I want to build road from 
+dallas
+to
+little_rock
+with cards
+[white,white]
+Remaining # wagon cards
+10
+Wagon Cards are: 
+[ (blue,1), (purple,0), (orange,1), (black,4), (red,2), (joker,1), (yellow,0), (green,0), (white,0)]
+Ticket No with highest value is 
+9
+[[pittsburgh,new_york]]
+pittsburgh
+new_york
+I need the following card 
+white
+The following card is drawn:
+purple
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (blue,1), (orange,1), (black,4), (joker,1), (yellow,0), (green,0), (white,0), (purple,1), (red,3)]
+Ticket No with highest value is 
+9
+[[pittsburgh,new_york]]
+pittsburgh
+new_york
+I need the following card 
+white
+The following card is drawn:
+white
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (blue,1), (orange,1), (black,4), (joker,1), (yellow,0), (purple,1), (red,3), (white,1), (green,1)]
+Ticket No with highest value is 
+9
+[[pittsburgh,new_york]]
+pittsburgh
+new_york
+I want to build road from 
+pittsburgh
+to
+new_york
+with cards
+[white,joker]
+Remaining # wagon cards
+8
+Wagon Cards are: 
+[ (blue,1), (orange,1), (black,4), (yellow,0), (purple,1), (red,3), (green,1), (joker,0), (white,0)]
+Ticket No with highest value is 
+9
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (blue,1), (orange,1), (black,4), (yellow,0), (purple,1), (red,3), (green,1), (joker,0), (white,0)]
+Destination Ticket Select Algorithm log
+[denver,pittsburgh,2,2,1]
+[helena,los_angeles,9,6,1]
+[sault_st_marie,nashville,4,4,1]
+I picked following destination tickets
+[16]
+Wagon Cards are: 
+[ (blue,1), (orange,1), (black,4), (yellow,0), (purple,1), (red,3), (green,1), (joker,0), (white,0)]
+Ticket No with highest value is 
+16
+[[denver,santa_fe]]
+denver
+santa_fe
+I want to build road from 
+denver
+to
+santa_fe
+with cards
+[black,black]
+Remaining # wagon cards
+6
+Wagon Cards are: 
+[ (blue,1), (orange,1), (yellow,0), (purple,1), (red,3), (green,1), (joker,0), (white,0), (black,2)]
+Ticket No with highest value is 
+16
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (blue,1), (orange,1), (yellow,0), (purple,1), (red,3), (green,1), (joker,0), (white,0), (black,2)]
+Destination Ticket Select Algorithm log
+[kansas_city,boston,4,4,1]
+[calgary,salt_lake_city,10,8,1]
+[winnipeg,little_rock,12,9,1]
+I picked following destination tickets
+[34]
+Wagon Cards are: 
+[ (blue,1), (orange,1), (yellow,0), (purple,1), (red,3), (green,1), (joker,0), (white,0), (black,2)]
+Ticket No with highest value is 
+34
+[[kansas_city,oklahoma_city],[new_york,boston]]
+new_york
+boston
+I need the following card 
+yellow
+The following card is drawn:
+white
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (blue,1), (orange,1), (yellow,0), (purple,1), (red,3), (green,1), (joker,0), (black,2), (white,2)]
+Ticket No with highest value is 
+34
+[[kansas_city,oklahoma_city],[new_york,boston]]
+new_york
+boston
+I need the following card 
+yellow
+The following card is drawn:
+orange
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (blue,1), (yellow,0), (purple,1), (green,1), (joker,0), (black,2), (white,2), (orange,2), (red,4)]
+Ticket No with highest value is 
+34
+[[kansas_city,oklahoma_city],[new_york,boston]]
+new_york
+boston
+I need the following card 
+yellow
+The following card is drawn:
+purple
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (blue,1), (yellow,0), (green,1), (black,2), (white,2), (orange,2), (red,4), (purple,2), (joker,1)]
+Ticket No with highest value is 
+34
+[[kansas_city,oklahoma_city],[new_york,boston]]
+new_york
+boston
+I need the following card 
+yellow
+The following card is drawn:
+red
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (blue,1), (yellow,0), (black,2), (white,2), (orange,2), (purple,2), (joker,1), (red,5), (green,2)]
+Ticket No with highest value is 
+34
+[[kansas_city,oklahoma_city],[new_york,boston]]
+new_york
+boston
+I need the following card 
+yellow
+The following card is drawn:
+black
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (blue,1), (yellow,0), (white,2), (orange,2), (purple,2), (red,5), (green,2), (black,3), (joker,2)]
+Ticket No with highest value is 
+34
+[[kansas_city,oklahoma_city],[new_york,boston]]
+new_york
+boston
+I want to build road from 
+new_york
+to
+boston
+with cards
+[joker,joker]
+Remaining # wagon cards
+4
+Wagon Cards are: 
+[ (blue,1), (yellow,0), (white,2), (orange,2), (purple,2), (red,5), (green,2), (black,3), (joker,0)]
+Ticket No with highest value is 
+34
+[[kansas_city,oklahoma_city]]
+kansas_city
+oklahoma_city
+I want to build road from 
+kansas_city
+to
+oklahoma_city
+with cards
+[white,white]
+Remaining # wagon cards
+2
+Wagon Cards are: 
+[ (blue,1), (yellow,0), (orange,2), (purple,2), (red,5), (green,2), (black,3), (joker,0), (white,0)]
+Ticket No with highest value is 
+34
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (blue,1), (yellow,0), (orange,2), (purple,2), (red,5), (green,2), (black,3), (joker,0), (white,0)]
+I want to build road from 
+los_angeles
+to
+las_vegas
+with cards
+[orange,orange]
+Remaining # wagon cards
+0
+--------------------------------------GAME STARTED---------------------------------------
+The following card is drawn:
+green
+The following card is drawn:
+blue
+The following card is drawn:
+orange
+The following card is drawn:
+yellow
+I picked following destination tickets
+[1,21,23]
+Wagon Cards are: 
+[ (purple,0), (white,0), (red,0), (black,0), (joker,0), (green,1), (blue,1), (orange,1), (yellow,1)]
+Ticket No with highest value is 
+23
+[[portland,seattle],[seattle,vancouver],[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,kansas_city],[kansas_city,saint_louis],[saint_louis,nashville]]
+saint_louis
+nashville
+I need the following card 
+green
+The following card is drawn:
+green
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (purple,0), (white,0), (red,0), (black,0), (joker,0), (blue,1), (orange,1), (green,2), (yellow,2)]
+Ticket No with highest value is 
+23
+[[portland,seattle],[seattle,vancouver],[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,kansas_city],[kansas_city,saint_louis],[saint_louis,nashville]]
+saint_louis
+nashville
+I want to build road from 
+saint_louis
+to
+nashville
+with cards
+[green,green]
+Remaining # wagon cards
+43
+Wagon Cards are: 
+[ (purple,0), (white,0), (red,0), (black,0), (joker,0), (blue,1), (orange,1), (yellow,2), (green,0)]
+Ticket No with highest value is 
+23
+[[portland,seattle],[seattle,vancouver],[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,kansas_city],[kansas_city,saint_louis]]
+omaha
+kansas_city
+I want to build road from 
+omaha
+to
+kansas_city
+with cards
+[blue]
+Remaining # wagon cards
+42
+Wagon Cards are: 
+[ (purple,0), (white,0), (red,0), (black,0), (joker,0), (orange,1), (yellow,2), (green,0), (blue,0)]
+Ticket No with highest value is 
+23
+[[portland,seattle],[seattle,vancouver],[vancouver,calgary],[calgary,helena],[helena,omaha],[kansas_city,saint_louis]]
+seattle
+vancouver
+I want to build road from 
+seattle
+to
+vancouver
+with cards
+[orange]
+Remaining # wagon cards
+41
+Wagon Cards are: 
+[ (purple,0), (white,0), (red,0), (black,0), (joker,0), (yellow,2), (green,0), (blue,0), (orange,0)]
+Ticket No with highest value is 
+23
+[[portland,seattle],[vancouver,calgary],[calgary,helena],[helena,omaha],[kansas_city,saint_louis]]
+portland
+seattle
+I want to build road from 
+portland
+to
+seattle
+with cards
+[yellow]
+Remaining # wagon cards
+40
+Wagon Cards are: 
+[ (purple,0), (white,0), (red,0), (black,0), (joker,0), (green,0), (blue,0), (orange,0), (yellow,1)]
+Ticket No with highest value is 
+23
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[kansas_city,saint_louis]]
+vancouver
+calgary
+I need the following card 
+yellow
+The following card is drawn:
+red
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (purple,0), (white,0), (joker,0), (green,0), (blue,0), (orange,0), (yellow,1), (red,1), (black,1)]
+Ticket No with highest value is 
+23
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[kansas_city,saint_louis]]
+vancouver
+calgary
+I need the following card 
+yellow
+The following card is drawn:
+red
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (purple,0), (white,0), (green,0), (blue,0), (orange,0), (yellow,1), (black,1), (red,2), (joker,1)]
+Ticket No with highest value is 
+23
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[kansas_city,saint_louis]]
+vancouver
+calgary
+I want to build road from 
+vancouver
+to
+calgary
+with cards
+[red,red,joker]
+Remaining # wagon cards
+37
+Wagon Cards are: 
+[ (purple,0), (white,0), (green,0), (blue,0), (orange,0), (yellow,1), (black,1), (joker,0), (red,0)]
+Ticket No with highest value is 
+23
+[[calgary,helena],[helena,omaha],[kansas_city,saint_louis]]
+calgary
+helena
+I need the following card 
+yellow
+The following card is drawn:
+joker
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (white,0), (green,0), (blue,0), (orange,0), (yellow,1), (black,1), (red,0), (joker,1), (purple,1)]
+Ticket No with highest value is 
+23
+[[calgary,helena],[helena,omaha],[kansas_city,saint_louis]]
+calgary
+helena
+I need the following card 
+yellow
+The following card is drawn:
+orange
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (white,0), (green,0), (blue,0), (yellow,1), (red,0), (joker,1), (purple,1), (orange,1), (black,2)]
+Ticket No with highest value is 
+23
+[[calgary,helena],[helena,omaha],[kansas_city,saint_louis]]
+calgary
+helena
+I need the following card 
+black
+The following card is drawn:
+black
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (white,0), (green,0), (blue,0), (yellow,1), (red,0), (joker,1), (orange,1), (black,3), (purple,2)]
+Ticket No with highest value is 
+23
+[[calgary,helena],[helena,omaha],[kansas_city,saint_louis]]
+calgary
+helena
+I want to build road from 
+calgary
+to
+helena
+with cards
+[black,black,black,joker]
+Remaining # wagon cards
+33
+Wagon Cards are: 
+[ (white,0), (green,0), (blue,0), (yellow,1), (red,0), (orange,1), (purple,2), (joker,0), (black,0)]
+Ticket No with highest value is 
+23
+[[helena,omaha],[kansas_city,saint_louis]]
+kansas_city
+saint_louis
+I want to build road from 
+kansas_city
+to
+saint_louis
+with cards
+[purple,purple]
+Remaining # wagon cards
+31
+Wagon Cards are: 
+[ (white,0), (green,0), (blue,0), (yellow,1), (red,0), (orange,1), (joker,0), (black,0), (purple,0)]
+Ticket No with highest value is 
+23
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+red
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (white,0), (green,0), (blue,0), (yellow,1), (orange,1), (joker,0), (black,0), (purple,0), (red,2)]
+Ticket No with highest value is 
+23
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+black
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (white,0), (green,0), (blue,0), (yellow,1), (orange,1), (joker,0), (purple,0), (black,1), (red,3)]
+Ticket No with highest value is 
+23
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+black
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (white,0), (green,0), (blue,0), (yellow,1), (joker,0), (purple,0), (red,3), (black,2), (orange,2)]
+Ticket No with highest value is 
+23
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+green
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (white,0), (blue,0), (yellow,1), (joker,0), (purple,0), (red,3), (orange,2), (green,1), (black,3)]
+Ticket No with highest value is 
+23
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+joker
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (white,0), (blue,0), (yellow,1), (purple,0), (red,3), (orange,2), (green,1), (joker,1), (black,4)]
+Ticket No with highest value is 
+23
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+blue
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (white,0), (yellow,1), (purple,0), (red,3), (orange,2), (joker,1), (black,4), (blue,1), (green,2)]
+Ticket No with highest value is 
+23
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+blue
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (white,0), (purple,0), (red,3), (orange,2), (joker,1), (black,4), (green,2), (blue,2), (yellow,2)]
+Ticket No with highest value is 
+23
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+purple
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (white,0), (red,3), (joker,1), (black,4), (green,2), (blue,2), (yellow,2), (purple,1), (orange,3)]
+Ticket No with highest value is 
+23
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+joker
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (white,0), (red,3), (green,2), (blue,2), (yellow,2), (purple,1), (orange,3), (joker,2), (black,5)]
+Ticket No with highest value is 
+23
+[[helena,omaha]]
+helena
+omaha
+I want to build road from 
+helena
+to
+omaha
+with cards
+[red,red,red,joker,joker]
+Remaining # wagon cards
+26
+Wagon Cards are: 
+[ (white,0), (green,2), (blue,2), (yellow,2), (purple,1), (orange,3), (black,5), (joker,0), (red,0)]
+Ticket No with highest value is 
+23
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (white,0), (green,2), (blue,2), (yellow,2), (purple,1), (orange,3), (black,5), (joker,0), (red,0)]
+Ticket No with highest value is 
+1
+[[los_angeles,las_vegas],[las_vegas,salt_lake_city],[salt_lake_city,helena],[saint_louis,chicago]]
+los_angeles
+las_vegas
+I want to build road from 
+los_angeles
+to
+las_vegas
+with cards
+[green,green]
+Remaining # wagon cards
+24
+Wagon Cards are: 
+[ (white,0), (blue,2), (yellow,2), (purple,1), (orange,3), (black,5), (joker,0), (red,0), (green,0)]
+Ticket No with highest value is 
+1
+[[las_vegas,salt_lake_city],[salt_lake_city,helena],[saint_louis,chicago]]
+salt_lake_city
+helena
+I need the following card 
+purple
+The following card is drawn:
+orange
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (white,0), (blue,2), (yellow,2), (purple,1), (black,5), (red,0), (green,0), (orange,4), (joker,1)]
+Ticket No with highest value is 
+1
+[[las_vegas,salt_lake_city],[salt_lake_city,helena],[saint_louis,chicago]]
+salt_lake_city
+helena
+I need the following card 
+purple
+The following card is drawn:
+orange
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (white,0), (blue,2), (yellow,2), (purple,1), (black,5), (green,0), (joker,1), (orange,5), (red,1)]
+Ticket No with highest value is 
+1
+[[las_vegas,salt_lake_city],[salt_lake_city,helena],[saint_louis,chicago]]
+salt_lake_city
+helena
+I need the following card 
+purple
+The following card is drawn:
+joker
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (white,0), (blue,2), (yellow,2), (purple,1), (green,0), (orange,5), (red,1), (joker,2), (black,6)]
+Ticket No with highest value is 
+1
+[[las_vegas,salt_lake_city],[salt_lake_city,helena],[saint_louis,chicago]]
+salt_lake_city
+helena
+I want to build road from 
+salt_lake_city
+to
+helena
+with cards
+[purple,joker,joker]
+Remaining # wagon cards
+21
+Wagon Cards are: 
+[ (white,0), (blue,2), (yellow,2), (green,0), (orange,5), (red,1), (black,6), (joker,0), (purple,0)]
+Ticket No with highest value is 
+1
+[[las_vegas,salt_lake_city],[saint_louis,chicago]]
+las_vegas
+salt_lake_city
+I want to build road from 
+las_vegas
+to
+salt_lake_city
+with cards
+[orange,orange,orange]
+Remaining # wagon cards
+18
+Wagon Cards are: 
+[ (white,0), (blue,2), (yellow,2), (green,0), (red,1), (black,6), (joker,0), (purple,0), (orange,2)]
+Ticket No with highest value is 
+1
+[[saint_louis,chicago]]
+saint_louis
+chicago
+I need the following card 
+white
+The following card is drawn:
+black
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (white,0), (blue,2), (green,0), (red,1), (joker,0), (purple,0), (orange,2), (black,7), (yellow,3)]
+Ticket No with highest value is 
+1
+[[saint_louis,chicago]]
+saint_louis
+chicago
+I need the following card 
+white
+The following card is drawn:
+green
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (blue,2), (red,1), (joker,0), (purple,0), (orange,2), (black,7), (yellow,3), (green,1), (white,1)]
+Ticket No with highest value is 
+1
+[[saint_louis,chicago]]
+saint_louis
+chicago
+I need the following card 
+white
+The following card is drawn:
+purple
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (blue,2), (red,1), (joker,0), (orange,2), (black,7), (green,1), (white,1), (purple,1), (yellow,4)]
+Ticket No with highest value is 
+1
+[[saint_louis,chicago]]
+saint_louis
+chicago
+I need the following card 
+white
+The following card is drawn:
+purple
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (blue,2), (red,1), (joker,0), (orange,2), (black,7), (green,1), (yellow,4), (purple,2), (white,2)]
+Ticket No with highest value is 
+1
+[[saint_louis,chicago]]
+saint_louis
+chicago
+I want to build road from 
+saint_louis
+to
+chicago
+with cards
+[white,white]
+Remaining # wagon cards
+16
+Wagon Cards are: 
+[ (blue,2), (red,1), (joker,0), (orange,2), (black,7), (green,1), (yellow,4), (purple,2), (white,0)]
+Ticket No with highest value is 
+1
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (blue,2), (red,1), (joker,0), (orange,2), (black,7), (green,1), (yellow,4), (purple,2), (white,0)]
+Ticket No with highest value is 
+21
+[[denver,salt_lake_city],[los_angeles,phoenix],[phoenix,el_paso]]
+phoenix
+el_paso
+I want to build road from 
+phoenix
+to
+el_paso
+with cards
+[black,black,black]
+Remaining # wagon cards
+13
+Wagon Cards are: 
+[ (blue,2), (red,1), (joker,0), (orange,2), (green,1), (yellow,4), (purple,2), (white,0), (black,4)]
+Ticket No with highest value is 
+21
+[[denver,salt_lake_city],[los_angeles,phoenix]]
+los_angeles
+phoenix
+I want to build road from 
+los_angeles
+to
+phoenix
+with cards
+[yellow,yellow,yellow]
+Remaining # wagon cards
+10
+Wagon Cards are: 
+[ (blue,2), (red,1), (joker,0), (orange,2), (green,1), (purple,2), (white,0), (black,4), (yellow,1)]
+Ticket No with highest value is 
+21
+[[denver,salt_lake_city]]
+denver
+salt_lake_city
+I need the following card 
+red
+The following card is drawn:
+black
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (red,1), (joker,0), (orange,2), (green,1), (purple,2), (white,0), (yellow,1), (black,5), (blue,3)]
+Ticket No with highest value is 
+21
+[[denver,salt_lake_city]]
+denver
+salt_lake_city
+I need the following card 
+red
+The following card is drawn:
+blue
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (red,1), (joker,0), (orange,2), (green,1), (white,0), (yellow,1), (black,5), (blue,4), (purple,3)]
+Ticket No with highest value is 
+21
+[[denver,salt_lake_city]]
+denver
+salt_lake_city
+I need the following card 
+red
+The following card is drawn:
+white
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (red,1), (joker,0), (orange,2), (green,1), (yellow,1), (black,5), (blue,4), (white,1), (purple,4)]
+Ticket No with highest value is 
+21
+[[denver,salt_lake_city]]
+denver
+salt_lake_city
+I need the following card 
+yellow
+The following card is drawn:
+yellow
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (red,1), (joker,0), (green,1), (black,5), (blue,4), (white,1), (purple,4), (yellow,2), (orange,3)]
+Ticket No with highest value is 
+21
+[[denver,salt_lake_city]]
+denver
+salt_lake_city
+I need the following card 
+yellow
+The following card is drawn:
+purple
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (joker,0), (green,1), (black,5), (blue,4), (white,1), (yellow,2), (orange,3), (purple,5), (red,2)]
+Ticket No with highest value is 
+21
+[[denver,salt_lake_city]]
+denver
+salt_lake_city
+I need the following card 
+yellow
+The following card is drawn:
+yellow
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (joker,0), (green,1), (black,5), (blue,4), (white,1), (orange,3), (purple,5), (yellow,3), (red,3)]
+Ticket No with highest value is 
+21
+[[denver,salt_lake_city]]
+denver
+salt_lake_city
+I want to build road from 
+denver
+to
+salt_lake_city
+with cards
+[yellow,yellow,yellow]
+Remaining # wagon cards
+7
+Wagon Cards are: 
+[ (joker,0), (green,1), (black,5), (blue,4), (white,1), (orange,3), (purple,5), (red,3), (yellow,0)]
+Ticket No with highest value is 
+21
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (joker,0), (green,1), (black,5), (blue,4), (white,1), (orange,3), (purple,5), (red,3), (yellow,0)]
+Destination Ticket Select Algorithm log
+[salt_lake_city,kansas_city,0,0,1]
+[seattle,los_angeles,0,0,1]
+[kansas_city,boston,8,7,1]
+I picked following destination tickets
+[34]
+Wagon Cards are: 
+[ (joker,0), (green,1), (black,5), (blue,4), (white,1), (orange,3), (purple,5), (red,3), (yellow,0)]
+Ticket No with highest value is 
+34
+[[chicago,pittsburgh],[pittsburgh,new_york],[new_york,boston]]
+new_york
+boston
+I need the following card 
+yellow
+The following card is drawn:
+purple
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (green,1), (black,5), (blue,4), (white,1), (orange,3), (red,3), (yellow,0), (purple,6), (joker,1)]
+Ticket No with highest value is 
+34
+[[chicago,pittsburgh],[pittsburgh,new_york],[new_york,boston]]
+new_york
+boston
+I need the following card 
+yellow
+The following card is drawn:
+blue
+The following card is drawn:
+joker
+--------------------------------------GAME STARTED---------------------------------------
+The following card is drawn:
+orange
+The following card is drawn:
+white
+The following card is drawn:
+blue
+The following card is drawn:
+joker
+I picked following destination tickets
+[3,19,24]
+Wagon Cards are: 
+[ (yellow,0), (green,0), (purple,0), (red,0), (black,0), (orange,1), (white,1), (blue,1), (joker,1)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie],[sault_st_marie,toronto],[toronto,montreal]]
+sault_st_marie
+toronto
+I want to build road from 
+sault_st_marie
+to
+toronto
+with cards
+[orange,joker]
+Remaining # wagon cards
+43
+Wagon Cards are: 
+[ (yellow,0), (green,0), (purple,0), (red,0), (black,0), (white,1), (blue,1), (joker,0), (orange,0)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie],[toronto,montreal]]
+toronto
+montreal
+I need the following card 
+white
+The following card is drawn:
+white
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (yellow,0), (green,0), (purple,0), (red,0), (black,0), (joker,0), (orange,0), (white,2), (blue,2)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie],[toronto,montreal]]
+toronto
+montreal
+I need the following card 
+white
+The following card is drawn:
+orange
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (yellow,0), (green,0), (red,0), (black,0), (joker,0), (white,2), (blue,2), (orange,1), (purple,1)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie],[toronto,montreal]]
+toronto
+montreal
+I need the following card 
+white
+The following card is drawn:
+orange
+The following card is drawn:
+blue
+Wagon Cards are: 
+[ (yellow,0), (green,0), (red,0), (black,0), (joker,0), (white,2), (purple,1), (orange,2), (blue,3)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie],[toronto,montreal]]
+toronto
+montreal
+I want to build road from 
+toronto
+to
+montreal
+with cards
+[blue,blue,blue]
+Remaining # wagon cards
+40
+Wagon Cards are: 
+[ (yellow,0), (green,0), (red,0), (black,0), (joker,0), (white,2), (purple,1), (orange,2), (blue,0)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie]]
+duluth
+sault_st_marie
+I need the following card 
+white
+The following card is drawn:
+orange
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (yellow,0), (red,0), (black,0), (joker,0), (white,2), (purple,1), (blue,0), (orange,3), (green,1)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth],[duluth,sault_st_marie]]
+duluth
+sault_st_marie
+I want to build road from 
+duluth
+to
+sault_st_marie
+with cards
+[orange,orange,orange]
+Remaining # wagon cards
+37
+Wagon Cards are: 
+[ (yellow,0), (red,0), (black,0), (joker,0), (white,2), (purple,1), (blue,0), (green,1), (orange,0)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth]]
+vancouver
+calgary
+I need the following card 
+white
+The following card is drawn:
+joker
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (red,0), (black,0), (white,2), (purple,1), (blue,0), (green,1), (orange,0), (joker,1), (yellow,1)]
+Ticket No with highest value is 
+19
+[[vancouver,calgary],[calgary,helena],[helena,omaha],[omaha,duluth]]
+vancouver
+calgary
+I want to build road from 
+vancouver
+to
+calgary
+with cards
+[white,white,joker]
+Remaining # wagon cards
+34
+Wagon Cards are: 
+[ (red,0), (black,0), (purple,1), (blue,0), (green,1), (orange,0), (yellow,1), (joker,0), (white,0)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha],[omaha,duluth]]
+omaha
+duluth
+I need the following card 
+purple
+The following card is drawn:
+white
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (red,0), (black,0), (purple,1), (blue,0), (green,1), (yellow,1), (joker,0), (white,1), (orange,1)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha],[omaha,duluth]]
+omaha
+duluth
+I need the following card 
+purple
+The following card is drawn:
+joker
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (red,0), (black,0), (purple,1), (blue,0), (yellow,1), (white,1), (orange,1), (joker,1), (green,2)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha],[omaha,duluth]]
+omaha
+duluth
+I want to build road from 
+omaha
+to
+duluth
+with cards
+[green,green]
+Remaining # wagon cards
+32
+Wagon Cards are: 
+[ (red,0), (black,0), (purple,1), (blue,0), (yellow,1), (white,1), (orange,1), (joker,1), (green,0)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I need the following card 
+purple
+The following card is drawn:
+red
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (purple,1), (blue,0), (yellow,1), (white,1), (orange,1), (joker,1), (green,0), (red,1), (black,1)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I need the following card 
+purple
+The following card is drawn:
+blue
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (purple,1), (yellow,1), (white,1), (orange,1), (joker,1), (red,1), (black,1), (blue,1), (green,1)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I need the following card 
+purple
+The following card is drawn:
+yellow
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (purple,1), (white,1), (orange,1), (joker,1), (red,1), (black,1), (blue,1), (yellow,2), (green,2)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I need the following card 
+yellow
+The following card is drawn:
+purple
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (orange,1), (joker,1), (red,1), (black,1), (blue,1), (yellow,2), (green,2), (purple,2), (white,2)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I need the following card 
+yellow
+The following card is drawn:
+yellow
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (orange,1), (joker,1), (red,1), (black,1), (blue,1), (purple,2), (white,2), (yellow,3), (green,3)]
+Ticket No with highest value is 
+19
+[[calgary,helena],[helena,omaha]]
+calgary
+helena
+I want to build road from 
+calgary
+to
+helena
+with cards
+[yellow,yellow,yellow,joker]
+Remaining # wagon cards
+28
+Wagon Cards are: 
+[ (orange,1), (red,1), (black,1), (blue,1), (purple,2), (white,2), (green,3), (joker,0), (yellow,0)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+blue
+The following card is drawn:
+red
+Wagon Cards are: 
+[ (orange,1), (black,1), (purple,2), (white,2), (green,3), (joker,0), (yellow,0), (blue,2), (red,2)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+black
+The following card is drawn:
+purple
+Wagon Cards are: 
+[ (orange,1), (white,2), (green,3), (joker,0), (yellow,0), (blue,2), (red,2), (black,2), (purple,3)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+joker
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (orange,1), (green,3), (yellow,0), (blue,2), (red,2), (black,2), (purple,3), (joker,1), (white,3)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+blue
+The following card is drawn:
+joker
+Wagon Cards are: 
+[ (orange,1), (green,3), (yellow,0), (red,2), (black,2), (purple,3), (white,3), (blue,3), (joker,2)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+blue
+The following card is drawn:
+orange
+Wagon Cards are: 
+[ (green,3), (yellow,0), (red,2), (black,2), (purple,3), (white,3), (joker,2), (blue,4), (orange,2)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+orange
+The following card is drawn:
+black
+Wagon Cards are: 
+[ (green,3), (yellow,0), (red,2), (purple,3), (white,3), (joker,2), (blue,4), (orange,3), (black,3)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I need the following card 
+red
+The following card is drawn:
+red
+The following card is drawn:
+yellow
+Wagon Cards are: 
+[ (green,3), (purple,3), (white,3), (joker,2), (blue,4), (orange,3), (black,3), (red,3), (yellow,1)]
+Ticket No with highest value is 
+19
+[[helena,omaha]]
+helena
+omaha
+I want to build road from 
+helena
+to
+omaha
+with cards
+[red,red,red,joker,joker]
+Remaining # wagon cards
+23
+Wagon Cards are: 
+[ (green,3), (purple,3), (white,3), (blue,4), (orange,3), (black,3), (yellow,1), (joker,0), (red,0)]
+Ticket No with highest value is 
+19
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (green,3), (purple,3), (white,3), (blue,4), (orange,3), (black,3), (yellow,1), (joker,0), (red,0)]
+Ticket No with highest value is 
+24
+[[helena,denver],[denver,santa_fe],[santa_fe,el_paso]]
+santa_fe
+el_paso
+I want to build road from 
+santa_fe
+to
+el_paso
+with cards
+[green,green]
+Remaining # wagon cards
+21
+Wagon Cards are: 
+[ (purple,3), (white,3), (blue,4), (orange,3), (black,3), (yellow,1), (joker,0), (red,0), (green,1)]
+Ticket No with highest value is 
+24
+[[helena,denver],[denver,santa_fe]]
+denver
+santa_fe
+I want to build road from 
+denver
+to
+santa_fe
+with cards
+[purple,purple]
+Remaining # wagon cards
+19
+Wagon Cards are: 
+[ (white,3), (blue,4), (orange,3), (black,3), (yellow,1), (joker,0), (red,0), (green,1), (purple,1)]
+Ticket No with highest value is 
+24
+[[helena,denver]]
+helena
+denver
+I need the following card 
+green
+The following card is drawn:
+green
+The following card is drawn:
+green
+Wagon Cards are: 
+[ (white,3), (blue,4), (orange,3), (black,3), (yellow,1), (joker,0), (red,0), (purple,1), (green,3)]
+Ticket No with highest value is 
+24
+[[helena,denver]]
+helena
+denver
+I need the following card 
+green
+The following card is drawn:
+joker
+The following card is drawn:
+white
+Wagon Cards are: 
+[ (blue,4), (orange,3), (black,3), (yellow,1), (red,0), (purple,1), (green,3), (joker,1), (white,4)]
+Ticket No with highest value is 
+24
+[[helena,denver]]
+helena
+denver
+I want to build road from 
+helena
+to
+denver
+with cards
+[green,green,green,joker]
+Remaining # wagon cards
+15
+Wagon Cards are: 
+[ (blue,4), (orange,3), (black,3), (yellow,1), (red,0), (purple,1), (white,4), (joker,0), (green,0)]
+Ticket No with highest value is 
+24
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (blue,4), (orange,3), (black,3), (yellow,1), (red,0), (purple,1), (white,4), (joker,0), (green,0)]
+Ticket No with highest value is 
+3
+[[kansas_city,oklahoma_city],[oklahoma_city,dallas],[dallas,houston]]
+dallas
+houston
+I want to build road from 
+dallas
+to
+houston
+with cards
+[blue]
+Remaining # wagon cards
+14
+Wagon Cards are: 
+[ (orange,3), (black,3), (yellow,1), (red,0), (purple,1), (white,4), (joker,0), (green,0), (blue,3)]
+Ticket No with highest value is 
+3
+[[kansas_city,oklahoma_city],[oklahoma_city,dallas]]
+oklahoma_city
+dallas
+I want to build road from 
+oklahoma_city
+to
+dallas
+with cards
+[orange,orange]
+Remaining # wagon cards
+12
+Wagon Cards are: 
+[ (black,3), (yellow,1), (red,0), (purple,1), (white,4), (joker,0), (green,0), (blue,3), (orange,1)]
+Ticket No with highest value is 
+3
+[[kansas_city,oklahoma_city]]
+kansas_city
+oklahoma_city
+I want to build road from 
+kansas_city
+to
+oklahoma_city
+with cards
+[black,black]
+Remaining # wagon cards
+10
+Wagon Cards are: 
+[ (yellow,1), (red,0), (purple,1), (white,4), (joker,0), (green,0), (blue,3), (orange,1), (black,1)]
+Ticket No with highest value is 
+3
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (yellow,1), (red,0), (purple,1), (white,4), (joker,0), (green,0), (blue,3), (orange,1), (black,1)]
+Destination Ticket Select Algorithm log
+[denver,pittsburgh,2,2,1]
+[winnipeg,santa_fe,7,4,1]
+[sault_st_marie,nashville,7,6,1]
+I picked following destination tickets
+[16]
+Wagon Cards are: 
+[ (yellow,1), (red,0), (purple,1), (white,4), (joker,0), (green,0), (blue,3), (orange,1), (black,1)]
+Ticket No with highest value is 
+16
+[[toronto,pittsburgh]]
+toronto
+pittsburgh
+I want to build road from 
+toronto
+to
+pittsburgh
+with cards
+[white,white]
+Remaining # wagon cards
+8
+Wagon Cards are: 
+[ (yellow,1), (red,0), (purple,1), (joker,0), (green,0), (blue,3), (orange,1), (black,1), (white,2)]
+Ticket No with highest value is 
+16
+[]
+Destination ticket is completed
+Wagon Cards are: 
+[ (yellow,1), (red,0), (purple,1), (joker,0), (green,0), (blue,3), (orange,1), (black,1), (white,2)]
+Destination Ticket Select Algorithm log
+[vancouver,santa_fe,0,0,1]
+[chicago,new_orleans,6,6,1]
+[san_fransisco,atlanta,16,11,1]
+I picked following destination tickets
+[28]
+Wagon Cards are: 
+[ (yellow,1), (red,0), (purple,1), (joker,0), (green,0), (blue,3), (orange,1), (black,1), (white,2)]
+Ticket No with highest value is 
+28
+[[san_fransisco,portland],[portland,seattle],[seattle,vancouver],[pittsburgh,raleigh],[raleigh,atlanta]]
+raleigh
+atlanta
+I want to build road from 
+raleigh
+to
+atlanta
+with cards
+[blue,blue]
+Remaining # wagon cards
+6
+Wagon Cards are: 
+[ (yellow,1), (red,0), (purple,1), (joker,0), (green,0), (orange,1), (black,1), (white,2), (blue,1)]
+Ticket No with highest value is 
+28
+[[san_fransisco,portland],[portland,seattle],[seattle,vancouver],[pittsburgh,raleigh]]
+pittsburgh
+raleigh
+I want to build road from 
+pittsburgh
+to
+raleigh
+with cards
+[white,white]
+Remaining # wagon cards
+4
+Wagon Cards are: 
+[ (yellow,1), (red,0), (purple,1), (joker,0), (green,0), (orange,1), (black,1), (blue,1), (white,0)]
+Ticket No with highest value is 
+28
+[[san_fransisco,portland],[portland,seattle],[seattle,vancouver]]
+seattle
+vancouver
+I want to build road from 
+seattle
+to
+vancouver
+with cards
+[yellow]
+Remaining # wagon cards
+3
+Wagon Cards are: 
+[ (red,0), (purple,1), (joker,0), (green,0), (orange,1), (black,1), (blue,1), (white,0), (yellow,0)]
+Ticket No with highest value is 
+28
+[[san_fransisco,portland],[portland,seattle]]
+portland
+seattle
+I want to build road from 
+portland
+to
+seattle
+with cards
+[purple]
+Remaining # wagon cards
+2
+Wagon Cards are: 
+[ (red,0), (joker,0), (green,0), (orange,1), (black,1), (blue,1), (white,0), (yellow,0), (purple,0)]
+Ticket No with highest value is 
+28
+[[san_fransisco,portland]]
+san_fransisco
+portland
+I need the following card 
+green
+The following card is drawn:
+white
+The following card is drawn:
+black
